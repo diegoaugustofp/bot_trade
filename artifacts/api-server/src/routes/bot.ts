@@ -530,8 +530,7 @@ router.get("/bot/settings", async (req, res): Promise<void> => {
   const [row] = await db.select().from(globalSettingsTable).limit(1);
   res.json(GetBotSettingsResponse.parse({
     discordEnabled: row.discordEnabled,
-    //discordWebhookConfigured: !!process.env.DISCORD_WEBHOOK_URL,
-    discordWebhookConfigured: "https://discord.com/api/webhooks/1492137692933394483/gYkb20uNu7Lv2pdMOiemS9VOWnkOjQvXn8zN5LGj9SqydX5ffksdpCjuo2ctcNEbZsMQ",
+    discordWebhookConfigured: !!process.env.DISCORD_WEBHOOK_URL,
   }));
 });
 
@@ -555,8 +554,7 @@ router.patch("/bot/settings", async (req, res): Promise<void> => {
 
   res.json(GetBotSettingsResponse.parse({
     discordEnabled: parsed.data.discordEnabled,
-    //discordWebhookConfigured: !!process.env.DISCORD_WEBHOOK_URL,
-    discordWebhookConfigured: "https://discord.com/api/webhooks/1492137692933394483/gYkb20uNu7Lv2pdMOiemS9VOWnkOjQvXn8zN5LGj9SqydX5ffksdpCjuo2ctcNEbZsMQ",
+    discordWebhookConfigured: !!process.env.DISCORD_WEBHOOK_URL,
   }));
 });
 
