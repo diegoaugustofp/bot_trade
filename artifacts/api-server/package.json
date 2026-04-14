@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "cross-env NODE_ENV=development  DISCORD_WEBHOOK_URL=https://discord.com/api/webhooks/1492137692933394483/gYkb20uNu7Lv2pdMOiemS9VOWnkOjQvXn8zN5LGj9SqydX5ffksdpCjuo2ctcNEbZsMQ pnpm run build && pnpm run start",
+    "dev": "cross-env NODE_ENV=development pnpm run build && pnpm run start",
     "build",: "node ./build.mjs",
     "start": "node --enable-source-maps ./dist/index.mjs",
     "typecheck": "tsc -p tsconfig.json --noEmit"
