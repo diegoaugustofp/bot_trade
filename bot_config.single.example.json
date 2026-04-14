@@ -1,0 +1,69 @@
+{
+  "_about": [
+    "Exemplo de configuração para modo SINGLE (um símbolo).",
+    "Copie este arquivo para bot_config.json e ajuste os valores.",
+    "",
+    "Execução: python run_bot.py",
+    "  ou:     SYMBOL=WINM25 python run_bot.py",
+    "",
+    "Todos os campos estão preenchidos com valores reais para servir de referência.",
+    "Campos opcionais marcados com null podem ser removidos ou mantidos como null."
+  ],
+
+  "symbols": [
+    {
+      "_about": "Mini Índice Bovespa — estratégia de rejeição na MA200.",
+
+      "symbol": "WINM25",
+      "strategy_name": "ma200_rejection",
+
+      "_section_position": "Tamanho da posição e timeframe",
+      "lot_size": 1.0,
+      "timeframe_minutes": 5,
+
+      "_section_entry": "Parâmetros de entrada e stop",
+      "entry_offset": 10.0,
+      "stop_loss": 20.0,
+
+      "_section_partials": "Fechamento parcial em 3 alvos",
+      "partial1_percent": 60.0,
+      "partial1_points": 20.0,
+      "partial2_percent": 20.0,
+      "partial2_points": 50.0,
+      "partial3_points": 100.0,
+
+      "_section_risk": "Limites de risco",
+      "max_open_trades": 1,
+      "max_daily_stops": 2,
+
+      "_section_schedule": "Janela de operação (null = sem restrição de horário)",
+      "trading_start_time": "09:15",
+      "trading_end_time": "17:30",
+      "force_close_time": "17:50",
+
+      "_section_daily_limits": "Metas diárias em R$ (null = sem limite)",
+      "max_daily_loss_pts": -500.0,
+      "max_daily_profit_pts": 1000.0,
+
+      "_section_advanced": "Recursos avançados (null = desativado)",
+      "break_even_pts": 15.0,
+      "cancel_pending_after_bars": 3,
+
+      "_section_strategy": "Parâmetros específicos da estratégia — ver README.md",
+      "strategy_params": {
+        "ma_period": 200,
+        "ma_type": "sma",
+        "touch_threshold_pts": 5.0,
+        "rejection_candles": 2,
+        "min_distance_pts": 0.0
+      },
+
+      "_section_runtime": "Controle do loop Python — não aparece no banco nem no painel",
+      "runtime": {
+        "loop_interval": 10.0,
+        "slippage": 5,
+        "bars_to_fetch": 300
+      }
+    }
+  ]
+}

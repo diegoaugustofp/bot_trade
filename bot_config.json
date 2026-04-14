@@ -1,0 +1,73 @@
+{
+  "_comment": "Configuração offline do bot. Usada quando o banco estiver indisponível. Use os mesmos nomes de campo do Python para strategy_params.",
+  "symbols": [
+    {
+      "symbol": "UsaTecJun26",
+      "strategy_name": "ma200_rejection",
+      "lot_size": 0.10,
+      "timeframe_minutes": 5,
+      "entry_offset": 40.0,
+      "stop_loss": 80.0,
+      "partial1_percent": 60.0,
+      "partial1_points": 80.0,
+      "partial2_percent": 20.0,
+      "partial2_points": 200.0,
+      "partial3_points": 400.0,
+      "max_open_trades": 3,
+      "max_daily_stops": 2,
+      "trading_start_time": null,
+      "trading_end_time": null,
+      "force_close_time": null,
+      "max_daily_loss_pts": null,
+      "max_daily_profit_pts": null,
+      "break_even_pts": null,
+      "cancel_pending_after_bars": null,
+      "strategy_params": {
+        "ma_period": 200,
+        "ma_type": "ema",
+        "touch_threshold_pts": 5.0,
+        "rejection_candles": 0
+      },
+      "runtime": {
+        "loop_interval": 10.0,
+        "slippage": 5,
+        "bars_to_fetch": 300,
+        "min_distance_pts":50.0
+      }
+    },
+     {
+      "_about": "Nasdaq com pontos de interesse.",
+
+      "symbol": "UsaTecJun26",
+      "strategy_name": "poi",
+
+      "lot_size": 0.1,
+      "timeframe_minutes": 5,
+      "entry_offset": 20,
+      "stop_loss": 80,
+
+      "partial1_percent": 60.0,
+      "partial1_points": 80,
+      "partial2_percent": 20.0,
+      "partial2_points": 200,
+      "partial3_points": 1000,
+
+      "max_open_trades": 1,
+      "max_daily_stops": 2,
+      "trading_start_time": null,
+      "trading_end_time": null,
+      "force_close_time": null,
+      "max_daily_loss_pts": null,
+      "max_daily_profit_pts": null,
+      "break_even_pts": null,
+      "cancel_pending_after_bars": null,
+
+      "strategy_params": {
+        "buy_levels": [25161,25035.50],
+        "sell_levels": [25250,25367.25],
+        "touch_threshold_pts": 40,
+        "rejection_candles": 0
+      }
+    }
+  ]
+}

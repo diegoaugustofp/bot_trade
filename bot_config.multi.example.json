@@ -1,0 +1,126 @@
+{
+  "_about": [
+    "Exemplo de configuração para modo MULTI (vários símbolos em paralelo).",
+    "Copie este arquivo para bot_config.json e ajuste os valores.",
+    "",
+    "Execução: BOT_MODE=multi python run_bot.py",
+    "",
+    "Cada entry é executado em uma thread separada pelo BotOrchestrator.",
+    "Um mesmo símbolo só pode ter uma operação aberta por vez (bloqueio atômico).",
+    "O bloco 'runtime' é compartilhado por todos — coloque-o no primeiro entry",
+    "ou em qualquer um deles (apenas o primeiro é lido no modo multi)."
+  ],
+
+  "symbols": [
+    {
+      "_about": "Mini Índice Bovespa — rejeição na MA200 (estratégia principal).",
+
+      "symbol": "WINM25",
+      "strategy_name": "ma200_rejection",
+
+      "lot_size": 1.0,
+      "timeframe_minutes": 5,
+      "entry_offset": 10.0,
+      "stop_loss": 20.0,
+
+      "partial1_percent": 60.0,
+      "partial1_points": 20.0,
+      "partial2_percent": 20.0,
+      "partial2_points": 50.0,
+      "partial3_points": 100.0,
+
+      "max_open_trades": 1,
+      "max_daily_stops": 2,
+      "trading_start_time": "09:15",
+      "trading_end_time": "17:30",
+      "force_close_time": "17:50",
+      "max_daily_loss_pts": -500.0,
+      "max_daily_profit_pts": 1000.0,
+      "break_even_pts": 15.0,
+      "cancel_pending_after_bars": 3,
+
+      "strategy_params": {
+        "ma_period": 200,
+        "ma_type": "sma",
+        "touch_threshold_pts": 5.0,
+        "rejection_candles": 2,
+        "min_distance_pts": 0.0
+      },
+
+      "runtime": {
+        "loop_interval": 10.0,
+        "slippage": 5,
+        "bars_to_fetch": 300
+      }
+    },
+
+    {
+      "_about": "Mini Dólar — cruzamento de EMAs rápida (9) e lenta (21).",
+
+      "symbol": "WDOM25",
+      "strategy_name": "ema_crossover",
+
+      "lot_size": 1.0,
+      "timeframe_minutes": 5,
+      "entry_offset": 2.0,
+      "stop_loss": 10.0,
+
+      "partial1_percent": 60.0,
+      "partial1_points": 8.0,
+      "partial2_percent": 20.0,
+      "partial2_points": 18.0,
+      "partial3_points": 35.0,
+
+      "max_open_trades": 1,
+      "max_daily_stops": 2,
+      "trading_start_time": "09:15",
+      "trading_end_time": "17:30",
+      "force_close_time": "17:50",
+      "max_daily_loss_pts": -200.0,
+      "max_daily_profit_pts": 400.0,
+      "break_even_pts": null,
+      "cancel_pending_after_bars": 2,
+
+      "strategy_params": {
+        "fast_period": 9,
+        "slow_period": 21,
+        "confirmation_candles": 1
+      }
+    },
+
+    {
+      "_about": "PETR4 — pontos de interesse manuais (suporte e resistência).",
+
+      "symbol": "PETR4",
+      "strategy_name": "poi",
+
+      "lot_size": 100.0,
+      "timeframe_minutes": 5,
+      "entry_offset": 0.05,
+      "stop_loss": 0.30,
+
+      "partial1_percent": 50.0,
+      "partial1_points": 0.25,
+      "partial2_percent": 30.0,
+      "partial2_points": 0.50,
+      "partial3_points": 1.00,
+
+      "max_open_trades": 1,
+      "max_daily_stops": 2,
+      "trading_start_time": "10:00",
+      "trading_end_time": "16:30",
+      "force_close_time": "16:50",
+      "max_daily_loss_pts": null,
+      "max_daily_profit_pts": null,
+      "break_even_pts": 0.20,
+      "cancel_pending_after_bars": 5,
+
+      "strategy_params": {
+        "buy_levels": [36.50, 35.80],
+        "sell_levels": [38.20, 39.00],
+        "touch_threshold_pts": 0.10,
+        "rejection_candles": 2
+      }
+    }
+  ]
+}

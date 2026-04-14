@@ -1,0 +1,2560 @@
+2026-04-09 02:07:10,146 [INFO] Modo de execução: SINGLE (estratégia: ma200_rejection)
+2026-04-09 02:07:10,147 [ERROR] psycopg2 não está instalado. Banco indisponível.
+2026-04-09 02:07:10,147 [WARNING] Não foi possível conectar ao banco. O painel não será atualizado em tempo real.
+2026-04-09 02:07:10,147 [INFO] ============================================================
+2026-04-09 02:07:10,147 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-09 02:07:10,147 [INFO] Símbolo: UsaTecJun26 | Lote: 1.00 | TF: M5
+2026-04-09 02:07:10,147 [INFO] ============================================================
+2026-04-09 02:07:16,182 [INFO] Conectado ao MT5 | Conta: 1003463 | Saldo: 15.21 USD
+2026-04-09 02:07:56,202 [INFO] Robô interrompido pelo usuário.
+2026-04-09 02:07:56,203 [INFO] Conexão MT5 encerrada.
+2026-04-09 02:07:56,203 [INFO] ============================================================
+2026-04-09 02:07:56,203 [INFO] RESUMO DA SESSÃO
+2026-04-09 02:07:56,203 [INFO]   Total de operações: 0
+2026-04-09 02:07:56,203 [INFO]   Fechadas: 0 | Wins: 0 | Losses: 0
+2026-04-09 02:07:56,203 [INFO]   Win Rate: 0.0%
+2026-04-09 02:07:56,205 [INFO]   PnL Total: 0.00
+2026-04-09 02:07:56,205 [INFO]   Stops no último dia: 0
+2026-04-09 02:07:56,205 [INFO] ============================================================
+2026-04-09 02:09:12,964 [INFO] Modo de execução: SINGLE (estratégia: ma200_rejection)
+2026-04-09 02:09:12,965 [ERROR] psycopg2 não está instalado. Banco indisponível.
+2026-04-09 02:09:12,965 [WARNING] Não foi possível conectar ao banco. O painel não será atualizado em tempo real.
+2026-04-09 02:09:12,965 [INFO] ============================================================
+2026-04-09 02:09:12,965 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-09 02:09:12,965 [INFO] Símbolo: UsaTecJun26 | Lote: 1.00 | TF: M5
+2026-04-09 02:09:12,965 [INFO] ============================================================
+2026-04-09 02:09:12,975 [INFO] Conectado ao MT5 | Conta: 1003463 | Saldo: 15.21 USD
+2026-04-09 02:09:32,961 [INFO] Robô interrompido pelo usuário.
+2026-04-09 02:09:32,962 [INFO] Conexão MT5 encerrada.
+2026-04-09 02:09:32,962 [INFO] ============================================================
+2026-04-09 02:09:32,962 [INFO] RESUMO DA SESSÃO
+2026-04-09 02:09:32,962 [INFO]   Total de operações: 0
+2026-04-09 02:09:32,962 [INFO]   Fechadas: 0 | Wins: 0 | Losses: 0
+2026-04-09 02:09:32,962 [INFO]   Win Rate: 0.0%
+2026-04-09 02:09:32,962 [INFO]   PnL Total: 0.00
+2026-04-09 02:09:32,963 [INFO]   Stops no último dia: 0
+2026-04-09 02:09:32,963 [INFO] ============================================================
+2026-04-09 02:10:24,674 [INFO] Modo de execução: SINGLE (estratégia: ma200_rejection)
+2026-04-09 02:10:24,674 [ERROR] psycopg2 não está instalado. Banco indisponível.
+2026-04-09 02:10:24,674 [WARNING] Não foi possível conectar ao banco. O painel não será atualizado em tempo real.
+2026-04-09 02:10:24,674 [INFO] ============================================================
+2026-04-09 02:10:24,675 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-09 02:10:24,675 [INFO] Símbolo: UsaTecJun26 | Lote: 1.00 | TF: M5
+2026-04-09 02:10:24,675 [INFO] ============================================================
+2026-04-09 02:10:24,687 [INFO] Conectado ao MT5 | Conta: 1003463 | Saldo: 15.21 USD
+2026-04-09 02:12:10,483 [INFO] Modo de execução: SINGLE (estratégia: ma200_rejection)
+2026-04-09 02:12:10,483 [ERROR] psycopg2 não está instalado. Banco indisponível.
+2026-04-09 02:12:10,483 [WARNING] Não foi possível conectar ao banco. O painel não será atualizado em tempo real.
+2026-04-09 02:12:10,483 [INFO] ============================================================
+2026-04-09 02:12:10,483 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-09 02:12:10,483 [INFO] Símbolo: UsaTecJun26 | Lote: 1.00 | TF: M5
+2026-04-09 02:12:10,483 [INFO] ============================================================
+2026-04-09 02:12:10,496 [INFO] Conectado ao MT5 | Conta: 1003463 | Saldo: 15.21 USD
+2026-04-09 02:14:24,012 [INFO] Modo de execução: SINGLE (estratégia: ma200_rejection)
+2026-04-09 02:14:24,012 [ERROR] psycopg2 não está instalado. Banco indisponível.
+2026-04-09 02:14:24,013 [WARNING] Não foi possível conectar ao banco. O painel não será atualizado em tempo real.
+2026-04-09 02:14:24,013 [INFO] ============================================================
+2026-04-09 02:14:24,013 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-09 02:14:24,013 [INFO] Símbolo: UsaTecJun26 | Lote: 1.00 | TF: M5
+2026-04-09 02:14:24,013 [INFO] ============================================================
+2026-04-09 02:14:24,024 [INFO] Conectado ao MT5 | Conta: 1003463 | Saldo: 15.21 USD
+2026-04-09 11:22:48,224 [INFO] Modo de execução: SINGLE (estratégia: ma200_rejection)
+2026-04-09 11:22:48,224 [ERROR] psycopg2 não está instalado. Banco indisponível.
+2026-04-09 11:22:48,224 [WARNING] Não foi possível conectar ao banco. O painel não será atualizado em tempo real.
+2026-04-09 11:22:48,225 [INFO] ============================================================
+2026-04-09 11:22:48,225 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-09 11:22:48,225 [INFO] Símbolo: UsaTecJun26 | Lote: 1.00 | TF: M5
+2026-04-09 11:22:48,225 [INFO] ============================================================
+2026-04-09 11:22:48,236 [INFO] Conectado ao MT5 | Conta: 1003463 | Saldo: 15.21 USD
+2026-04-09 11:22:48,247 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:22:48,247 [INFO] Novo sinal: SELL | Preço de referência=25030.50044
+2026-04-09 11:22:48,248 [ERROR] Falha ao enviar ordem: AutoTrading disabled by client
+2026-04-09 11:22:58,254 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:23:08,272 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:23:18,291 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:23:28,307 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:23:38,320 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:23:40,662 [INFO] Modo de execução: SINGLE (estratégia: ma200_rejection)
+2026-04-09 11:23:40,662 [ERROR] psycopg2 não está instalado. Banco indisponível.
+2026-04-09 11:23:40,662 [WARNING] Não foi possível conectar ao banco. O painel não será atualizado em tempo real.
+2026-04-09 11:23:40,662 [INFO] ============================================================
+2026-04-09 11:23:40,662 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-09 11:23:40,663 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-09 11:23:40,663 [INFO] ============================================================
+2026-04-09 11:23:40,679 [INFO] Conectado ao MT5 | Conta: 1003463 | Saldo: 15.21 USD
+2026-04-09 11:23:40,687 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:23:40,687 [INFO] Novo sinal: SELL | Preço de referência=25030.50044
+2026-04-09 11:23:40,688 [ERROR] Falha ao enviar ordem: AutoTrading disabled by client
+2026-04-09 11:23:48,337 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:23:50,701 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:23:58,345 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:24:00,711 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:24:08,362 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:24:10,716 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:24:18,371 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:24:20,724 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:24:28,387 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:24:30,748 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:24:38,406 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:24:40,759 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:24:48,415 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:24:50,771 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:24:58,426 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:25:00,790 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:25:00,791 [INFO] Novo sinal: SELL | Preço de referência=25030.54425
+2026-04-09 11:25:00,792 [ERROR] Falha ao enviar ordem: AutoTrading disabled by client
+2026-04-09 11:25:08,439 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:25:08,440 [INFO] Novo sinal: SELL | Preço de referência=25030.54425
+2026-04-09 11:25:08,441 [ERROR] Falha ao enviar ordem: AutoTrading disabled by client
+2026-04-09 11:25:10,801 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:25:18,460 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:25:20,824 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:25:28,472 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:25:30,836 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:25:38,491 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:25:40,847 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:25:48,505 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:25:50,870 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:25:58,522 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:26:00,885 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:26:08,538 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:26:10,897 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:26:18,556 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:26:20,909 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:26:28,579 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:26:30,927 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:26:38,592 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:26:40,948 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:26:48,605 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:26:50,960 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:26:58,621 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:27:00,980 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:27:08,641 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:27:10,996 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:27:18,666 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:27:21,009 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:27:28,693 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:27:31,026 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:27:38,715 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:27:41,046 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:27:48,726 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:27:51,061 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:27:58,742 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:28:01,078 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:28:08,764 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:28:11,092 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:28:18,778 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:28:21,097 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:28:28,793 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:28:31,115 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:28:38,808 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:28:41,125 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:28:48,821 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:28:51,147 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:28:58,839 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:29:01,166 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:29:08,857 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:29:11,182 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:29:18,875 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:29:21,199 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:29:28,885 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:29:31,209 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:29:38,903 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:29:41,222 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:29:48,907 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:29:51,231 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:29:58,926 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 11:42:00,260 [INFO] Modo de execução: SINGLE (estratégia: ma200_rejection)
+2026-04-09 11:42:00,261 [ERROR] psycopg2 não está instalado. Banco indisponível.
+2026-04-09 11:42:00,261 [WARNING] Não foi possível conectar ao banco. O painel não será atualizado em tempo real.
+2026-04-09 11:42:00,261 [INFO] ============================================================
+2026-04-09 11:42:00,261 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-09 11:42:00,261 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-09 11:42:00,261 [INFO] ============================================================
+2026-04-09 11:42:00,273 [INFO] Conectado ao MT5 | Conta: 1003463 | Saldo: 15.76 USD
+2026-04-09 11:43:13,193 [INFO] Modo de execução: SINGLE (estratégia: ma200_rejection)
+2026-04-09 11:43:13,194 [ERROR] psycopg2 não está instalado. Banco indisponível.
+2026-04-09 11:43:13,194 [WARNING] Não foi possível conectar ao banco. O painel não será atualizado em tempo real.
+2026-04-09 11:43:13,194 [INFO] ============================================================
+2026-04-09 11:43:13,195 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-09 11:43:13,195 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-09 11:43:13,195 [INFO] ============================================================
+2026-04-09 11:43:13,208 [INFO] Conectado ao MT5 | Conta: 1003463 | Saldo: 15.76 USD
+2026-04-09 11:44:12,371 [INFO] Robô interrompido pelo usuário.
+2026-04-09 11:44:12,372 [INFO] Conexão MT5 encerrada.
+2026-04-09 11:44:12,372 [INFO] ============================================================
+2026-04-09 11:44:12,373 [INFO] RESUMO DA SESSÃO
+2026-04-09 11:44:12,373 [INFO]   Total de operações: 0
+2026-04-09 11:44:12,374 [INFO]   Fechadas: 0 | Wins: 0 | Losses: 0
+2026-04-09 11:44:12,374 [INFO]   Win Rate: 0.0%
+2026-04-09 11:44:12,374 [INFO]   PnL Total: 0.00
+2026-04-09 11:44:12,374 [INFO]   Stops no último dia: 0
+2026-04-09 11:44:12,375 [INFO] ============================================================
+2026-04-09 11:45:44,346 [INFO] Modo de execução: SINGLE (estratégia: ma200_rejection)
+2026-04-09 11:45:44,347 [ERROR] psycopg2 não está instalado. Banco indisponível.
+2026-04-09 11:45:44,347 [WARNING] Não foi possível conectar ao banco. O painel não será atualizado em tempo real.
+2026-04-09 11:45:44,348 [INFO] ============================================================
+2026-04-09 11:45:44,348 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-09 11:45:44,348 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-09 11:45:44,348 [INFO] ============================================================
+2026-04-09 11:45:44,359 [INFO] Conectado ao MT5 | Conta: 1003463 | Saldo: 15.76 USD
+2026-04-09 11:45:53,306 [INFO] Robô interrompido pelo usuário.
+2026-04-09 11:45:53,308 [INFO] Conexão MT5 encerrada.
+2026-04-09 11:45:53,309 [INFO] ============================================================
+2026-04-09 11:45:53,309 [INFO] RESUMO DA SESSÃO
+2026-04-09 11:45:53,309 [INFO]   Total de operações: 0
+2026-04-09 11:45:53,309 [INFO]   Fechadas: 0 | Wins: 0 | Losses: 0
+2026-04-09 11:45:53,310 [INFO]   Win Rate: 0.0%
+2026-04-09 11:45:53,310 [INFO]   PnL Total: 0.00
+2026-04-09 11:45:53,310 [INFO]   Stops no último dia: 0
+2026-04-09 11:45:53,310 [INFO] ============================================================
+2026-04-09 11:46:46,259 [INFO] Modo de execução: SINGLE (estratégia: ma200_rejection)
+2026-04-09 11:46:46,259 [ERROR] psycopg2 não está instalado. Banco indisponível.
+2026-04-09 11:46:46,259 [WARNING] Não foi possível conectar ao banco. O painel não será atualizado em tempo real.
+2026-04-09 11:46:46,259 [INFO] ============================================================
+2026-04-09 11:46:46,260 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-09 11:46:46,260 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-09 11:46:46,260 [INFO] ============================================================
+2026-04-09 11:46:46,276 [INFO] Conectado ao MT5 | Conta: 1003463 | Saldo: 15.76 USD
+2026-04-09 11:47:41,301 [INFO] Modo de execução: SINGLE (estratégia: ma200_rejection)
+2026-04-09 11:47:41,302 [ERROR] psycopg2 não está instalado. Banco indisponível.
+2026-04-09 11:47:41,302 [WARNING] Não foi possível conectar ao banco. O painel não será atualizado em tempo real.
+2026-04-09 11:47:41,302 [INFO] ============================================================
+2026-04-09 11:47:41,302 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-09 11:47:41,302 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-09 11:47:41,302 [INFO] ============================================================
+2026-04-09 11:47:41,314 [INFO] Conectado ao MT5 | Conta: 1003463 | Saldo: 15.76 USD
+2026-04-09 11:50:16,402 [INFO] Robô interrompido pelo usuário.
+2026-04-09 11:50:16,403 [INFO] Conexão MT5 encerrada.
+2026-04-09 11:50:16,403 [INFO] ============================================================
+2026-04-09 11:50:16,403 [INFO] RESUMO DA SESSÃO
+2026-04-09 11:50:16,403 [INFO]   Total de operações: 0
+2026-04-09 11:50:16,405 [INFO]   Fechadas: 0 | Wins: 0 | Losses: 0
+2026-04-09 11:50:16,405 [INFO]   Win Rate: 0.0%
+2026-04-09 11:50:16,405 [INFO]   PnL Total: 0.00
+2026-04-09 11:50:16,405 [INFO]   Stops no último dia: 0
+2026-04-09 11:50:16,405 [INFO] ============================================================
+2026-04-09 11:52:40,051 [INFO] Modo de execução: SINGLE (estratégia: ma200_rejection)
+2026-04-09 11:52:40,052 [ERROR] psycopg2 não está instalado. Banco indisponível.
+2026-04-09 11:52:40,052 [WARNING] Não foi possível conectar ao banco. O painel não será atualizado em tempo real.
+2026-04-09 11:52:40,052 [INFO] ============================================================
+2026-04-09 11:52:40,052 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-09 11:52:40,052 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-09 11:52:40,052 [INFO] ============================================================
+2026-04-09 11:52:40,062 [INFO] Conectado ao MT5 | Conta: 1003463 | Saldo: 15.76 USD
+2026-04-09 11:52:46,256 [INFO] Robô interrompido pelo usuário.
+2026-04-09 11:52:46,257 [INFO] Conexão MT5 encerrada.
+2026-04-09 11:52:46,258 [INFO] ============================================================
+2026-04-09 11:52:46,258 [INFO] RESUMO DA SESSÃO
+2026-04-09 11:52:46,258 [INFO]   Total de operações: 0
+2026-04-09 11:52:46,259 [INFO]   Fechadas: 0 | Wins: 0 | Losses: 0
+2026-04-09 11:52:46,259 [INFO]   Win Rate: 0.0%
+2026-04-09 11:52:46,259 [INFO]   PnL Total: 0.00
+2026-04-09 11:52:46,259 [INFO]   Stops no último dia: 0
+2026-04-09 11:52:46,259 [INFO] ============================================================
+2026-04-09 12:00:01,825 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:00:01,825 [INFO] Novo sinal: BUY | Preço de referência=25030.51831
+2026-04-09 12:00:01,826 [ERROR] Falha ao enviar ordem: Invalid price
+2026-04-09 12:00:02,353 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:00:02,355 [INFO] Novo sinal: BUY | Preço de referência=25030.51831
+2026-04-09 12:00:02,355 [ERROR] Falha ao enviar ordem: Invalid price
+2026-04-09 12:00:11,841 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:00:12,370 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:00:21,862 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:00:22,389 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:00:31,875 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:00:32,402 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:00:41,882 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:00:42,418 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:00:51,899 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:00:52,429 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:01:01,910 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:01:02,435 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:01:11,925 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:01:12,455 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:01:21,944 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:01:22,481 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:01:31,963 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:01:32,497 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:01:41,973 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:01:42,504 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:01:51,988 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:01:52,516 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:02:01,998 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:02:02,533 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:02:06,115 [INFO] Modo de execução: SINGLE (estratégia: ma200_rejection)
+2026-04-09 12:02:06,116 [ERROR] psycopg2 não está instalado. Banco indisponível.
+2026-04-09 12:02:06,116 [WARNING] Não foi possível conectar ao banco. O painel não será atualizado em tempo real.
+2026-04-09 12:02:06,116 [INFO] ============================================================
+2026-04-09 12:02:06,116 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-09 12:02:06,117 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-09 12:02:06,117 [INFO] ============================================================
+2026-04-09 12:02:06,131 [INFO] Conectado ao MT5 | Conta: 1003463 | Saldo: 15.76 USD
+2026-04-09 12:02:06,135 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:02:06,136 [INFO] Novo sinal: BUY | Preço de referência=25030.51831
+2026-04-09 12:02:06,136 [ERROR] Falha ao enviar ordem: Invalid price
+2026-04-09 12:02:12,005 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:02:12,552 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:02:16,151 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:02:22,017 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:02:22,565 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:02:26,164 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:02:32,028 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:02:32,578 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:02:36,180 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:02:42,041 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:02:42,586 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:02:46,190 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:02:52,059 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:02:52,607 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:02:56,208 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:03:02,073 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:03:02,623 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:03:06,227 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:03:12,085 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:03:12,637 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:03:16,235 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:03:22,103 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:03:22,653 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:03:26,251 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:03:32,118 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:03:32,662 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:03:36,263 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:03:42,138 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:03:42,672 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:03:46,277 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:03:52,147 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:03:52,677 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:03:56,287 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:04:02,161 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:04:02,691 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:04:06,301 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:04:12,166 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:04:12,697 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:04:16,319 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:04:22,183 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:04:22,716 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:04:26,340 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:04:32,197 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:04:32,726 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:04:36,362 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:04:42,215 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:04:42,745 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:04:46,385 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:04:52,230 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:04:52,761 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:04:56,395 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:05:34,690 [INFO] Modo de execução: SINGLE (estratégia: ma200_rejection)
+2026-04-09 12:05:34,691 [ERROR] psycopg2 não está instalado. Banco indisponível.
+2026-04-09 12:05:34,691 [WARNING] Não foi possível conectar ao banco. O painel não será atualizado em tempo real.
+2026-04-09 12:05:34,691 [INFO] ============================================================
+2026-04-09 12:05:34,691 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-09 12:05:34,691 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-09 12:05:34,691 [INFO] ============================================================
+2026-04-09 12:05:34,701 [INFO] Conectado ao MT5 | Conta: 1003463 | Saldo: 15.76 USD
+2026-04-09 12:08:42,293 [INFO] Modo de execução: SINGLE (estratégia: ma200_rejection)
+2026-04-09 12:08:44,978 [ERROR] Falha ao conectar ao PostgreSQL: could not translate host name "helium" to address: Name or service not known
+
+  Verifique a DATABASE_URL. Exemplos:
+    Local:   postgresql://usuario:senha@127.0.0.1:5432/nome_banco
+    Neon:    postgresql://usuario:senha@host.neon.tech/nome_banco
+  Se o erro for 'SSL required', adicione ?sslmode=disable (local)
+  ou ?sslmode=require (remoto) ao final da URL.
+2026-04-09 12:08:44,978 [WARNING] Não foi possível conectar ao banco. O painel não será atualizado em tempo real.
+2026-04-09 12:08:44,979 [INFO] ============================================================
+2026-04-09 12:08:44,979 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-09 12:08:44,979 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-09 12:08:44,979 [INFO] ============================================================
+2026-04-09 12:08:44,992 [INFO] Conectado ao MT5 | Conta: 1003463 | Saldo: 15.76 USD
+2026-04-09 12:10:05,113 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 12:10:05,115 [INFO] Novo sinal: SELL | Preço de referência=25029.19844
+2026-04-09 12:10:05,116 [ERROR] Falha ao enviar ordem: Invalid price
+2026-04-09 12:10:15,135 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 12:10:25,151 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 12:10:35,165 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 12:10:45,185 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 12:10:55,207 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 12:11:05,218 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 12:11:15,234 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 12:11:25,252 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 12:11:35,272 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 12:11:45,289 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 12:11:55,298 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 12:12:05,309 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 12:12:15,321 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 12:12:25,333 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 12:12:35,359 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 12:12:45,376 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 12:12:55,388 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 12:12:57,069 [INFO] Robô interrompido pelo usuário.
+2026-04-09 12:12:57,069 [INFO] Conexão MT5 encerrada.
+2026-04-09 12:12:57,069 [INFO] ============================================================
+2026-04-09 12:12:57,069 [INFO] RESUMO DA SESSÃO
+2026-04-09 12:12:57,069 [INFO]   Total de operações: 0
+2026-04-09 12:12:57,071 [INFO]   Fechadas: 0 | Wins: 0 | Losses: 0
+2026-04-09 12:12:57,071 [INFO]   Win Rate: 0.0%
+2026-04-09 12:12:57,071 [INFO]   PnL Total: 0.00
+2026-04-09 12:12:57,071 [INFO]   Stops no último dia: 0
+2026-04-09 12:12:57,071 [INFO] ============================================================
+2026-04-09 12:12:59,306 [INFO] Modo de execução: SINGLE (estratégia: ma200_rejection)
+2026-04-09 12:13:02,021 [ERROR] Falha ao conectar ao PostgreSQL: could not translate host name "helium" to address: Name or service not known
+
+  Verifique a DATABASE_URL. Exemplos:
+    Local:   postgresql://usuario:senha@127.0.0.1:5432/nome_banco
+    Neon:    postgresql://usuario:senha@host.neon.tech/nome_banco
+  Se o erro for 'SSL required', adicione ?sslmode=disable (local)
+  ou ?sslmode=require (remoto) ao final da URL.
+2026-04-09 12:13:02,022 [WARNING] Não foi possível conectar ao banco. O painel não será atualizado em tempo real.
+2026-04-09 12:13:02,022 [INFO] ============================================================
+2026-04-09 12:13:02,022 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-09 12:13:02,022 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-09 12:13:02,023 [INFO] ============================================================
+2026-04-09 12:13:02,035 [INFO] Conectado ao MT5 | Conta: 1003463 | Saldo: 15.76 USD
+2026-04-09 12:13:02,040 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 12:13:02,041 [INFO] Novo sinal: SELL | Preço de referência=25029.19844
+2026-04-09 12:13:02,041 [ERROR] Falha ao enviar ordem: Invalid price
+2026-04-09 12:13:12,054 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 12:13:22,061 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 12:13:32,068 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 12:13:42,087 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 12:13:52,095 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 12:14:02,114 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 12:14:12,132 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 12:14:22,154 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 12:14:32,173 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 12:14:42,184 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 12:14:52,197 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 12:15:52,643 [INFO] Robô interrompido pelo usuário.
+2026-04-09 12:15:52,645 [INFO] Conexão MT5 encerrada.
+2026-04-09 12:15:52,645 [INFO] ============================================================
+2026-04-09 12:15:52,645 [INFO] RESUMO DA SESSÃO
+2026-04-09 12:15:52,646 [INFO]   Total de operações: 0
+2026-04-09 12:15:52,646 [INFO]   Fechadas: 0 | Wins: 0 | Losses: 0
+2026-04-09 12:15:52,646 [INFO]   Win Rate: 0.0%
+2026-04-09 12:15:52,646 [INFO]   PnL Total: 0.00
+2026-04-09 12:15:52,646 [INFO]   Stops no último dia: 0
+2026-04-09 12:15:52,647 [INFO] ============================================================
+2026-04-09 12:15:54,954 [INFO] Modo de execução: SINGLE (estratégia: ma200_rejection)
+2026-04-09 12:15:54,955 [ERROR] Falha ao conectar ao PostgreSQL: invalid dsn: missing "=" after "postgresql:" in connection info string
+
+  Verifique a DATABASE_URL. Exemplos:
+    Local:   postgresql://usuario:senha@127.0.0.1:5432/nome_banco
+    Neon:    postgresql://usuario:senha@host.neon.tech/nome_banco
+  Se o erro for 'SSL required', adicione ?sslmode=disable (local)
+  ou ?sslmode=require (remoto) ao final da URL.
+2026-04-09 12:15:54,955 [WARNING] Não foi possível conectar ao banco. O painel não será atualizado em tempo real.
+2026-04-09 12:15:54,956 [INFO] ============================================================
+2026-04-09 12:15:54,956 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-09 12:15:54,956 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-09 12:15:54,956 [INFO] ============================================================
+2026-04-09 12:15:54,967 [INFO] Conectado ao MT5 | Conta: 1003463 | Saldo: 15.76 USD
+2026-04-09 12:16:40,931 [INFO] Robô interrompido pelo usuário.
+2026-04-09 12:16:40,933 [INFO] Conexão MT5 encerrada.
+2026-04-09 12:16:40,933 [INFO] ============================================================
+2026-04-09 12:16:40,933 [INFO] RESUMO DA SESSÃO
+2026-04-09 12:16:40,933 [INFO]   Total de operações: 0
+2026-04-09 12:16:40,933 [INFO]   Fechadas: 0 | Wins: 0 | Losses: 0
+2026-04-09 12:16:40,934 [INFO]   Win Rate: 0.0%
+2026-04-09 12:16:40,934 [INFO]   PnL Total: 0.00
+2026-04-09 12:16:40,934 [INFO]   Stops no último dia: 0
+2026-04-09 12:16:40,934 [INFO] ============================================================
+2026-04-09 12:16:43,656 [INFO] Modo de execução: SINGLE (estratégia: ma200_rejection)
+2026-04-09 12:16:43,700 [ERROR] Falha ao conectar ao PostgreSQL: connection to server at "localhost" (::1), port 5432 failed: server does not support SSL, but SSL was required
+
+  Verifique a DATABASE_URL. Exemplos:
+    Local:   postgresql://usuario:senha@127.0.0.1:5432/nome_banco
+    Neon:    postgresql://usuario:senha@host.neon.tech/nome_banco
+  Se o erro for 'SSL required', adicione ?sslmode=disable (local)
+  ou ?sslmode=require (remoto) ao final da URL.
+2026-04-09 12:16:43,701 [WARNING] Não foi possível conectar ao banco. O painel não será atualizado em tempo real.
+2026-04-09 12:16:43,701 [INFO] ============================================================
+2026-04-09 12:16:43,701 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-09 12:16:43,701 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-09 12:16:43,701 [INFO] ============================================================
+2026-04-09 12:16:43,718 [INFO] Conectado ao MT5 | Conta: 1003463 | Saldo: 15.76 USD
+2026-04-09 12:17:25,571 [INFO] Robô interrompido pelo usuário.
+2026-04-09 12:17:25,573 [INFO] Conexão MT5 encerrada.
+2026-04-09 12:17:25,573 [INFO] ============================================================
+2026-04-09 12:17:25,573 [INFO] RESUMO DA SESSÃO
+2026-04-09 12:17:25,573 [INFO]   Total de operações: 0
+2026-04-09 12:17:25,573 [INFO]   Fechadas: 0 | Wins: 0 | Losses: 0
+2026-04-09 12:17:25,574 [INFO]   Win Rate: 0.0%
+2026-04-09 12:17:25,574 [INFO]   PnL Total: 0.00
+2026-04-09 12:17:25,574 [INFO]   Stops no último dia: 0
+2026-04-09 12:17:25,574 [INFO] ============================================================
+2026-04-09 12:17:27,563 [INFO] Modo de execução: SINGLE (estratégia: ma200_rejection)
+2026-04-09 12:17:27,614 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-09 12:17:27,631 [INFO] ============================================================
+2026-04-09 12:17:27,631 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-09 12:17:27,632 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-09 12:17:27,632 [INFO] ============================================================
+2026-04-09 12:17:27,643 [INFO] Conectado ao MT5 | Conta: 1003463 | Saldo: 15.76 USD
+2026-04-09 12:20:08,058 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:20:08,059 [INFO] Novo sinal: BUY | Preço de referência=25029.69548
+2026-04-09 12:20:08,060 [ERROR] Falha ao enviar ordem: Invalid price
+2026-04-09 12:20:18,081 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:20:28,103 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:20:38,143 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:20:48,158 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:20:58,176 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:21:08,193 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:21:18,216 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:21:28,235 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:21:38,271 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:21:48,301 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:21:58,326 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:22:08,359 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:22:18,380 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:22:28,406 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:22:38,428 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:22:48,461 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:22:58,489 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:23:08,509 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:23:18,539 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:23:28,563 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:23:38,576 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:23:48,601 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:23:58,622 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:24:08,642 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:24:18,663 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:24:28,697 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:24:38,728 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:24:48,758 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:24:58,772 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:25:08,793 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:25:08,794 [INFO] Novo sinal: BUY | Preço de referência=25028.42001
+2026-04-09 12:25:08,795 [ERROR] Falha ao enviar ordem: Invalid price
+2026-04-09 12:25:18,817 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:25:28,845 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:25:38,877 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:25:48,905 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:25:58,914 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:26:08,942 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:26:18,972 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:26:28,988 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:26:38,999 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:26:49,023 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:26:59,039 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:27:09,064 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:27:19,088 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:27:29,117 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:27:39,128 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:27:49,142 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:27:59,155 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:28:09,191 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:28:19,206 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:28:29,225 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:28:39,242 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:28:49,277 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:28:59,309 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:29:09,340 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:29:19,361 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:29:29,382 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:29:39,406 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:29:49,418 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:29:59,442 [INFO] Sinal de COMPRA detectado (recusa na MA200 por baixo).
+2026-04-09 12:45:17,905 [INFO] Robô interrompido pelo usuário.
+2026-04-09 12:45:17,907 [INFO] Conexão PostgreSQL encerrada.
+2026-04-09 12:45:17,907 [INFO] Conexão MT5 encerrada.
+2026-04-09 12:45:17,908 [INFO] ============================================================
+2026-04-09 12:45:17,908 [INFO] RESUMO DA SESSÃO
+2026-04-09 12:45:17,908 [INFO]   Total de operações: 0
+2026-04-09 12:45:17,908 [INFO]   Fechadas: 0 | Wins: 0 | Losses: 0
+2026-04-09 12:45:17,908 [INFO]   Win Rate: 0.0%
+2026-04-09 12:45:17,909 [INFO]   PnL Total: 0.00
+2026-04-09 12:45:17,909 [INFO]   Stops no último dia: 0
+2026-04-09 12:45:17,909 [INFO] ============================================================
+2026-04-09 12:45:20,741 [INFO] Modo de execução: SINGLE (estratégia: ma200_rejection)
+2026-04-09 12:45:20,800 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-09 12:45:20,803 [INFO] ============================================================
+2026-04-09 12:45:20,804 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-09 12:45:20,804 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-09 12:45:20,804 [INFO] ============================================================
+2026-04-09 12:45:20,815 [INFO] Conectado ao MT5 | Conta: 1003463 | Saldo: 15.76 USD
+2026-04-09 12:46:10,189 [INFO] Robô interrompido pelo usuário.
+2026-04-09 12:46:10,191 [INFO] Conexão PostgreSQL encerrada.
+2026-04-09 12:46:10,191 [INFO] Conexão MT5 encerrada.
+2026-04-09 12:46:10,192 [INFO] ============================================================
+2026-04-09 12:46:10,192 [INFO] RESUMO DA SESSÃO
+2026-04-09 12:46:10,192 [INFO]   Total de operações: 0
+2026-04-09 12:46:10,192 [INFO]   Fechadas: 0 | Wins: 0 | Losses: 0
+2026-04-09 12:46:10,192 [INFO]   Win Rate: 0.0%
+2026-04-09 12:46:10,192 [INFO]   PnL Total: 0.00
+2026-04-09 12:46:10,193 [INFO]   Stops no último dia: 0
+2026-04-09 12:46:10,193 [INFO] ============================================================
+2026-04-09 12:46:12,310 [INFO] Modo de execução: SINGLE (estratégia: ma200_rejection)
+2026-04-09 12:46:12,361 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-09 12:46:12,364 [INFO] ============================================================
+2026-04-09 12:46:12,364 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-09 12:46:12,364 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-09 12:46:12,365 [INFO] ============================================================
+2026-04-09 12:46:12,377 [INFO] Conectado ao MT5 | Conta: 1003463 | Saldo: 15.76 USD
+2026-04-09 14:03:31,238 [INFO] Robô interrompido pelo usuário.
+2026-04-09 14:03:31,253 [INFO] Conexão PostgreSQL encerrada.
+2026-04-09 14:03:31,254 [INFO] Conexão MT5 encerrada.
+2026-04-09 14:03:31,254 [INFO] ============================================================
+2026-04-09 14:03:31,254 [INFO] RESUMO DA SESSÃO
+2026-04-09 14:03:31,254 [INFO]   Total de operações: 0
+2026-04-09 14:03:31,257 [INFO]   Fechadas: 0 | Wins: 0 | Losses: 0
+2026-04-09 14:03:31,257 [INFO]   Win Rate: 0.0%
+2026-04-09 14:03:31,257 [INFO]   PnL Total: 0.00
+2026-04-09 14:03:31,257 [INFO]   Stops no último dia: 0
+2026-04-09 14:03:31,258 [INFO] ============================================================
+2026-04-09 14:04:18,905 [INFO] Modo de execução: SINGLE (estratégia: ma200_rejection)
+2026-04-09 14:04:21,597 [ERROR] Falha ao conectar ao PostgreSQL: could not translate host name "helium" to address: Name or service not known
+
+  Verifique a DATABASE_URL. Exemplos:
+    Local:   postgresql://usuario:senha@127.0.0.1:5432/nome_banco
+    Neon:    postgresql://usuario:senha@host.neon.tech/nome_banco
+  Se o erro for 'SSL required', adicione ?sslmode=disable (local)
+  ou ?sslmode=require (remoto) ao final da URL.
+2026-04-09 14:04:21,598 [WARNING] Não foi possível conectar ao banco. O painel não será atualizado em tempo real.
+2026-04-09 14:04:21,598 [INFO] ============================================================
+2026-04-09 14:04:21,598 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-09 14:04:21,598 [INFO] Símbolo: WINM25 | Lote: 1.00 | TF: M5
+2026-04-09 14:04:21,599 [INFO] ============================================================
+2026-04-09 14:04:21,611 [INFO] Conectado ao MT5 | Conta: 1003463 | Saldo: 11.11 USD
+2026-04-09 14:04:21,611 [ERROR] Símbolo WINM25 não encontrado.
+2026-04-09 14:06:25,775 [INFO] Modo de execução: SINGLE (estratégia: ma200_rejection)
+2026-04-09 14:06:25,776 [ERROR] Falha ao conectar ao PostgreSQL: invalid sslmode value: "ignore"
+
+  Verifique a DATABASE_URL. Exemplos:
+    Local:   postgresql://usuario:senha@127.0.0.1:5432/nome_banco
+    Neon:    postgresql://usuario:senha@host.neon.tech/nome_banco
+  Se o erro for 'SSL required', adicione ?sslmode=disable (local)
+  ou ?sslmode=require (remoto) ao final da URL.
+2026-04-09 14:06:25,777 [WARNING] Não foi possível conectar ao banco. O painel não será atualizado em tempo real.
+2026-04-09 14:06:25,777 [INFO] ============================================================
+2026-04-09 14:06:25,777 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-09 14:06:25,777 [INFO] Símbolo: WINM25 | Lote: 1.00 | TF: M5
+2026-04-09 14:06:25,777 [INFO] ============================================================
+2026-04-09 14:06:25,790 [INFO] Conectado ao MT5 | Conta: 1003463 | Saldo: 11.11 USD
+2026-04-09 14:06:25,790 [ERROR] Símbolo WINM25 não encontrado.
+2026-04-09 14:06:59,523 [INFO] Modo de execução: SINGLE (estratégia: ma200_rejection)
+2026-04-09 14:06:59,580 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-09 14:06:59,584 [INFO] ============================================================
+2026-04-09 14:06:59,584 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-09 14:06:59,584 [INFO] Símbolo: WINM25 | Lote: 1.00 | TF: M5
+2026-04-09 14:06:59,584 [INFO] ============================================================
+2026-04-09 14:06:59,597 [INFO] Conectado ao MT5 | Conta: 1003463 | Saldo: 11.11 USD
+2026-04-09 14:06:59,597 [ERROR] Símbolo WINM25 não encontrado.
+2026-04-09 14:08:25,841 [INFO] Modo de execução: SINGLE (estratégia: ma200_rejection)
+2026-04-09 14:08:25,897 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-09 14:08:25,900 [INFO] ============================================================
+2026-04-09 14:08:25,901 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-09 14:08:25,901 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-09 14:08:25,901 [INFO] ============================================================
+2026-04-09 14:08:25,928 [INFO] Conectado ao MT5 | Conta: 1003463 | Saldo: 11.11 USD
+2026-04-09 14:08:25,948 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:08:25,949 [INFO] Novo sinal: SELL | Preço de referência=25050.14513
+2026-04-09 14:08:25,949 [ERROR] Falha ao enviar ordem: Invalid price (retcode=10015) | order_price=25050.00000  stop_loss=25050.25000  tick_size=0.250000  ref=25050.14513
+2026-04-09 14:08:35,965 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:08:45,994 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:08:56,028 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:09:06,044 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:09:16,068 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:09:26,094 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:09:36,116 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:09:46,133 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:09:56,160 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:10:06,185 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:10:06,187 [INFO] Novo sinal: SELL | Preço de referência=25052.34777
+2026-04-09 14:10:06,188 [ERROR] Falha ao enviar ordem: Invalid price (retcode=10015) | order_price=25052.25000  stop_loss=25052.50000  tick_size=0.250000  ref=25052.34777
+2026-04-09 14:10:16,208 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:10:26,222 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:10:36,243 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:10:46,274 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:10:56,302 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:11:06,316 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:11:16,346 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:11:26,369 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:11:36,401 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:11:46,429 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:11:56,457 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:12:06,465 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:12:16,495 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:12:26,514 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:12:36,528 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:12:46,556 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:12:56,581 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:13:06,594 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:13:16,616 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:13:26,643 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:13:36,658 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:13:46,686 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:13:56,711 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:14:06,733 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:14:16,766 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:14:26,793 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:14:36,819 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:14:46,843 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:14:56,865 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:15:06,895 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:15:06,896 [INFO] Novo sinal: SELL | Preço de referência=25053.74119
+2026-04-09 14:15:06,897 [ERROR] Falha ao enviar ordem: Invalid price (retcode=10015) | order_price=25053.75000  stop_loss=25053.75000  tick_size=0.250000  ref=25053.74119
+2026-04-09 14:15:16,912 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:15:26,930 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:15:36,947 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:15:42,227 [INFO] Robô interrompido pelo usuário.
+2026-04-09 14:15:42,229 [INFO] Conexão PostgreSQL encerrada.
+2026-04-09 14:15:42,229 [INFO] Conexão MT5 encerrada.
+2026-04-09 14:15:42,231 [INFO] ============================================================
+2026-04-09 14:15:42,231 [INFO] RESUMO DA SESSÃO
+2026-04-09 14:15:42,231 [INFO]   Total de operações: 0
+2026-04-09 14:15:42,231 [INFO]   Fechadas: 0 | Wins: 0 | Losses: 0
+2026-04-09 14:15:42,232 [INFO]   Win Rate: 0.0%
+2026-04-09 14:15:42,232 [INFO]   PnL Total: 0.00
+2026-04-09 14:15:42,232 [INFO]   Stops no último dia: 0
+2026-04-09 14:15:42,232 [INFO] ============================================================
+2026-04-09 14:18:53,137 [INFO] Modo de execução: SINGLE (estratégia: ma200_rejection)
+2026-04-09 14:18:53,195 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-09 14:18:53,199 [INFO] ============================================================
+2026-04-09 14:18:53,200 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-09 14:18:53,200 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-09 14:18:53,200 [INFO] ============================================================
+2026-04-09 14:18:53,214 [INFO] Conectado ao MT5 | Conta: 1003463 | Saldo: 11.11 USD
+2026-04-09 14:18:53,222 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:18:53,222 [INFO] Novo sinal: SELL | Preço de referência=25053.74119
+2026-04-09 14:18:53,223 [ERROR] Falha ao enviar ordem: Invalid price (retcode=10015) | order_price=25043.75000  stop_loss=25063.75000  tick_size=0.250000  ref=25053.74119
+2026-04-09 14:19:03,228 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:19:13,251 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:19:23,259 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:19:33,279 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:19:43,300 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:19:53,334 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:19:56,677 [INFO] Robô interrompido pelo usuário.
+2026-04-09 14:19:56,691 [INFO] Conexão PostgreSQL encerrada.
+2026-04-09 14:19:56,691 [INFO] Conexão MT5 encerrada.
+2026-04-09 14:19:56,691 [INFO] ============================================================
+2026-04-09 14:19:56,692 [INFO] RESUMO DA SESSÃO
+2026-04-09 14:19:56,692 [INFO]   Total de operações: 0
+2026-04-09 14:19:56,692 [INFO]   Fechadas: 0 | Wins: 0 | Losses: 0
+2026-04-09 14:19:56,692 [INFO]   Win Rate: 0.0%
+2026-04-09 14:19:56,693 [INFO]   PnL Total: 0.00
+2026-04-09 14:19:56,693 [INFO]   Stops no último dia: 0
+2026-04-09 14:19:56,693 [INFO] ============================================================
+2026-04-09 14:20:00,308 [INFO] Modo de execução: SINGLE (estratégia: ma200_rejection)
+2026-04-09 14:20:00,375 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-09 14:20:00,380 [INFO] ============================================================
+2026-04-09 14:20:00,380 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-09 14:20:00,380 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-09 14:20:00,380 [INFO] ============================================================
+2026-04-09 14:20:00,393 [INFO] Conectado ao MT5 | Conta: 1003463 | Saldo: 11.11 USD
+2026-04-09 14:20:00,406 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:20:00,407 [INFO] Novo sinal: SELL | Preço de referência=25054.82241
+2026-04-09 14:20:00,407 [ERROR] Falha ao enviar ordem: Invalid price (retcode=10015) | order_price=25044.75000  stop_loss=25064.75000  tick_size=0.250000  ref=25054.82241
+2026-04-09 14:20:10,416 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:20:20,436 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:20:30,462 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:20:40,483 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:20:50,498 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:21:00,516 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:21:10,534 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:21:20,558 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:21:30,589 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:21:40,597 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:21:50,612 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:22:00,629 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:22:10,657 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:22:20,684 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:22:30,712 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:22:40,744 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:22:50,759 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:23:00,793 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:23:10,813 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:23:20,822 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:23:30,830 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:23:40,862 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:23:50,896 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:24:00,911 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:24:10,939 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:24:20,969 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:24:30,991 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:24:41,020 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:24:51,052 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:25:01,071 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:25:01,072 [INFO] Novo sinal: SELL | Preço de referência=25057.85261
+2026-04-09 14:25:01,073 [ERROR] Falha ao enviar ordem: Invalid price (retcode=10015) | order_price=25047.75000  stop_loss=25067.75000  tick_size=0.250000  ref=25057.85261
+2026-04-09 14:25:11,095 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:25:21,109 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:25:31,127 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:25:41,151 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:25:51,162 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:26:01,186 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:26:11,216 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:26:21,230 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:26:31,263 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:26:41,281 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:26:51,288 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:27:01,322 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:27:11,345 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:27:21,364 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:27:31,383 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:27:41,408 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:27:51,433 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:28:01,462 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:28:11,501 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:28:21,530 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:28:31,555 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:28:41,577 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:28:51,599 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:29:01,634 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:29:11,646 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:29:21,675 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:29:31,683 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:29:41,703 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:29:51,729 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:30:01,751 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:30:01,752 [INFO] Novo sinal: SELL | Preço de referência=25060.46898
+2026-04-09 14:30:01,753 [ERROR] Falha ao enviar ordem: Invalid price (retcode=10015) | order_price=25050.50000  stop_loss=25070.50000  tick_size=0.250000  ref=25060.46898
+2026-04-09 14:30:11,772 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:30:21,801 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:30:31,822 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:30:41,846 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:30:51,876 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:31:01,907 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:31:11,937 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:31:21,967 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:31:31,989 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:31:42,015 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:31:52,043 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:32:02,053 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:32:12,070 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:32:22,087 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:32:32,107 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:32:42,139 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:32:52,155 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:33:02,172 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:33:12,194 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:33:22,210 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:33:32,227 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:33:42,247 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:33:52,268 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:34:02,300 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:34:12,334 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:34:22,348 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:34:32,373 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:34:42,406 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:34:52,418 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:35:02,446 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:35:02,447 [INFO] Novo sinal: SELL | Preço de referência=25062.02704
+2026-04-09 14:35:02,448 [ERROR] Falha ao enviar ordem: Invalid price (retcode=10015) | order_price=25052.00000  stop_loss=25072.00000  tick_size=0.250000  ref=25062.02704
+2026-04-09 14:35:12,459 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:35:22,477 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:35:32,490 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:35:42,517 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:35:52,529 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:36:02,546 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:36:12,578 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:36:22,599 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:36:32,620 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:36:42,649 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:36:52,684 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:37:02,717 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:37:12,739 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:37:22,750 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:37:32,783 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:37:42,811 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:37:52,820 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:38:02,845 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:38:12,857 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:38:22,890 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:38:32,924 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:38:42,936 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:38:52,957 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:39:02,975 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:39:13,001 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:39:23,035 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:39:33,073 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:39:43,097 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:39:53,132 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:40:03,153 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:40:03,154 [INFO] Novo sinal: SELL | Preço de referência=25065.01393
+2026-04-09 14:40:03,155 [ERROR] Falha ao enviar ordem: Invalid price (retcode=10015) | order_price=25055.00000  stop_loss=25075.00000  tick_size=0.250000  ref=25065.01393
+2026-04-09 14:40:13,181 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:40:23,208 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:40:33,220 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:40:43,249 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:40:53,288 [INFO] Sinal de VENDA detectado (recusa na MA200 por cima).
+2026-04-09 14:41:00,982 [INFO] Robô interrompido pelo usuário.
+2026-04-09 14:41:00,985 [INFO] Conexão PostgreSQL encerrada.
+2026-04-09 14:41:00,986 [INFO] Conexão MT5 encerrada.
+2026-04-09 14:41:00,986 [INFO] ============================================================
+2026-04-09 14:41:00,986 [INFO] RESUMO DA SESSÃO
+2026-04-09 14:41:00,987 [INFO]   Total de operações: 0
+2026-04-09 14:41:00,987 [INFO]   Fechadas: 0 | Wins: 0 | Losses: 0
+2026-04-09 14:41:00,987 [INFO]   Win Rate: 0.0%
+2026-04-09 14:41:00,987 [INFO]   PnL Total: 0.00
+2026-04-09 14:41:00,987 [INFO]   Stops no último dia: 0
+2026-04-09 14:41:00,987 [INFO] ============================================================
+2026-04-09 16:06:14,318 [INFO] Modo de execução: SINGLE (estratégia: ma200_rejection)
+2026-04-09 16:06:17,019 [ERROR] Falha ao conectar ao PostgreSQL: could not translate host name "helium" to address: Name or service not known
+
+  Verifique a DATABASE_URL. Exemplos:
+    Local:   postgresql://usuario:senha@127.0.0.1:5432/nome_banco
+    Neon:    postgresql://usuario:senha@host.neon.tech/nome_banco
+  Se o erro for 'SSL required', adicione ?sslmode=disable (local)
+  ou ?sslmode=require (remoto) ao final da URL.
+2026-04-09 16:06:17,019 [WARNING] Não foi possível conectar ao banco. O painel não será atualizado em tempo real.
+2026-04-09 16:06:17,019 [INFO] ============================================================
+2026-04-09 16:06:17,020 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-09 16:06:17,020 [INFO] Símbolo: UsaTecJun26 | Lote: 1.00 | TF: M5
+2026-04-09 16:06:17,020 [INFO] ============================================================
+2026-04-09 16:06:17,035 [INFO] Conectado ao MT5 | Conta: 1003463 | Saldo: 11.11 USD
+2026-04-09 16:06:59,278 [INFO] Robô interrompido pelo usuário.
+2026-04-09 16:06:59,278 [INFO] Conexão MT5 encerrada.
+2026-04-09 16:06:59,278 [INFO] ============================================================
+2026-04-09 16:06:59,278 [INFO] RESUMO DA SESSÃO
+2026-04-09 16:06:59,278 [INFO]   Total de operações: 0
+2026-04-09 16:06:59,279 [INFO]   Fechadas: 0 | Wins: 0 | Losses: 0
+2026-04-09 16:06:59,279 [INFO]   Win Rate: 0.0%
+2026-04-09 16:06:59,279 [INFO]   PnL Total: 0.00
+2026-04-09 16:06:59,279 [INFO]   Stops no último dia: 0
+2026-04-09 16:06:59,280 [INFO] ============================================================
+2026-04-09 16:07:02,412 [INFO] Modo de execução: SINGLE (estratégia: ma200_rejection)
+2026-04-09 16:07:05,102 [ERROR] Falha ao conectar ao PostgreSQL: could not translate host name "helium" to address: Name or service not known
+
+  Verifique a DATABASE_URL. Exemplos:
+    Local:   postgresql://usuario:senha@127.0.0.1:5432/nome_banco
+    Neon:    postgresql://usuario:senha@host.neon.tech/nome_banco
+  Se o erro for 'SSL required', adicione ?sslmode=disable (local)
+  ou ?sslmode=require (remoto) ao final da URL.
+2026-04-09 16:07:05,103 [WARNING] Não foi possível conectar ao banco. O painel não será atualizado em tempo real.
+2026-04-09 16:07:05,103 [INFO] ============================================================
+2026-04-09 16:07:05,103 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-09 16:07:05,103 [INFO] Símbolo: USATECJUN26 | Lote: 1.00 | TF: M5
+2026-04-09 16:07:05,103 [INFO] ============================================================
+2026-04-09 16:07:05,116 [INFO] Conectado ao MT5 | Conta: 1003463 | Saldo: 11.11 USD
+2026-04-09 16:07:05,116 [ERROR] Símbolo USATECJUN26 não encontrado.
+2026-04-09 17:45:18,497 [INFO] Modo de execução: SINGLE (símbolo: (primeiro entry))
+2026-04-09 17:45:18,497 [INFO] SYMBOL não definida. Usando o primeiro entry do arquivo: UsaTecJun26
+2026-04-09 17:45:18,579 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-09 17:45:18,594 [INFO] Linha de bot_status criada (id=1).
+2026-04-09 17:45:18,600 [INFO] [ONLINE] Configurações carregadas do banco de dados.
+2026-04-09 17:45:18,603 [WARNING] Nenhuma configuração encontrada para o símbolo 'UsaTecJun26'.
+2026-04-09 17:45:18,603 [INFO] [ONLINE] Símbolo 'UsaTecJun26' não encontrado no banco. Inserindo configuração do arquivo offline...
+2026-04-09 17:45:18,607 [INFO] Símbolo 'UsaTecJun26' inserido no banco a partir da configuração offline.
+2026-04-09 17:45:18,607 [INFO] Modo SINGLE | símbolo=UsaTecJun26 | estratégia=MA200RejectionStrategy
+2026-04-09 17:45:18,607 [INFO] ============================================================
+2026-04-09 17:45:18,607 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-09 17:45:18,608 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-09 17:45:18,608 [INFO] ============================================================
+2026-04-09 17:45:18,626 [INFO] Conectado ao MT5 | Conta: 1003463 | Saldo: 11.11 USD
+2026-04-09 19:53:38,088 [INFO] Modo de execução: SINGLE (símbolo: (primeiro entry))
+2026-04-09 19:53:38,088 [INFO] SYMBOL não definida. Usando o primeiro entry do arquivo: UsaTecJun26
+2026-04-09 19:53:38,141 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-09 19:53:38,146 [INFO] Linha de bot_status criada (id=1).
+2026-04-09 19:53:38,146 [INFO] [ONLINE] Configurações carregadas do banco de dados.
+2026-04-09 19:53:38,150 [INFO] [ONLINE] 'UsaTecJun26/ma200_rejection' não encontrado no banco. Inserindo configuração do arquivo offline...
+2026-04-09 19:53:38,152 [INFO] Símbolo 'UsaTecJun26' inserido no banco a partir da configuração offline.
+2026-04-09 19:53:38,152 [INFO] Modo SINGLE | símbolo=UsaTecJun26 | estratégia=MA200RejectionStrategy
+2026-04-09 19:53:38,152 [INFO] ============================================================
+2026-04-09 19:53:38,152 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-09 19:53:38,152 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-09 19:53:38,152 [INFO] ============================================================
+2026-04-09 19:53:38,163 [INFO] Conectado ao MT5 | Conta: 1003463 | Saldo: 11.11 USD
+2026-04-09 19:53:51,347 [INFO] Robô interrompido pelo usuário.
+2026-04-09 19:53:51,360 [INFO] Conexão PostgreSQL encerrada.
+2026-04-09 19:53:51,361 [INFO] Conexão MT5 encerrada.
+2026-04-09 19:53:51,361 [INFO] ============================================================
+2026-04-09 19:53:51,361 [INFO] RESUMO DA SESSÃO
+2026-04-09 19:53:51,361 [INFO]   Total de operações: 0
+2026-04-09 19:53:51,361 [INFO]   Fechadas: 0 | Wins: 0 | Losses: 0
+2026-04-09 19:53:51,362 [INFO]   Win Rate: 0.0%
+2026-04-09 19:53:51,362 [INFO]   PnL Total: 0.00
+2026-04-09 19:53:51,362 [INFO]   Stops no último dia: 0
+2026-04-09 19:53:51,362 [INFO] ============================================================
+2026-04-09 19:56:45,470 [INFO] Modo de execução: MULTI (orquestrador)
+2026-04-09 19:56:45,519 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-09 19:56:45,522 [INFO] [ONLINE] Configurações carregadas do banco de dados.
+2026-04-09 19:56:45,538 [INFO] [ONLINE] 'UsaTecJun26/ma200_rejection' carregado do banco (id=1).
+2026-04-09 19:56:45,539 [INFO] [ONLINE] 'UsaTecJun26/poi' não encontrado no banco. Inserindo configuração do arquivo offline...
+2026-04-09 19:56:45,545 [ERROR] Erro ao inserir configuração do símbolo 'UsaTecJun26' no banco: ERRO:  duplicar valor da chave viola a restrição de unicidade "bot_config_symbol_unique"
+DETAIL:  Chave (symbol)=(UsaTecJun26) já existe.
+
+2026-04-09 19:56:45,590 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-09 19:56:45,636 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-09 19:56:45,639 [INFO] Conexão PostgreSQL encerrada.
+2026-04-09 19:56:45,641 [INFO] ============================================================
+2026-04-09 19:56:45,641 [INFO] [orch] BotOrchestrator iniciando — 2 entradas em 1 símbolo(s).
+2026-04-09 19:56:45,641 [INFO] ============================================================
+2026-04-09 19:56:45,652 [INFO] [orch] MT5 conectado | Conta: 1003463 | Saldo: 11.11 USD
+2026-04-09 19:56:45,653 [INFO] [orch] Iniciando engine: símbolo=UsaTecJun26 | estratégia=MA200RejectionStrategy
+2026-04-09 19:56:45,653 [INFO] [orch] Thread iniciada: UsaTecJun26-MA200RejectionStrategy
+2026-04-09 19:56:45,654 [INFO] ============================================================
+2026-04-09 19:56:45,654 [INFO] [orch] Iniciando engine: símbolo=UsaTecJun26 | estratégia=POIStrategy
+2026-04-09 19:56:45,654 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-09 19:56:45,655 [INFO] ============================================================
+2026-04-09 19:56:45,654 [INFO] [orch] Thread iniciada: UsaTecJun26-POIStrategy
+2026-04-09 19:56:45,655 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-09 19:56:45,655 [INFO] Iniciando Robô de Trade | Estratégia: POIStrategy
+2026-04-09 19:56:45,656 [INFO] ============================================================
+2026-04-09 19:56:45,656 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-09 19:56:45,657 [INFO] ============================================================
+2026-04-09 20:19:22,681 [INFO] Modo de execução: MULTI (orquestrador)
+2026-04-09 20:19:22,839 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-09 20:19:22,842 [INFO] [ONLINE] Configurações carregadas do banco de dados.
+2026-04-09 20:19:22,846 [INFO] [ONLINE] 'UsaTecJun26/ma200_rejection' não encontrado no banco. Inserindo configuração do arquivo offline...
+2026-04-09 20:19:22,861 [INFO] Símbolo 'UsaTecJun26' inserido no banco a partir da configuração offline.
+2026-04-09 20:19:22,862 [INFO] [ONLINE] 'UsaTecJun26/poi' não encontrado no banco. Inserindo configuração do arquivo offline...
+2026-04-09 20:19:22,865 [INFO] Símbolo 'UsaTecJun26' inserido no banco a partir da configuração offline.
+2026-04-09 20:19:22,917 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-09 20:19:22,974 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-09 20:19:22,977 [INFO] Conexão PostgreSQL encerrada.
+2026-04-09 20:19:22,978 [INFO] ============================================================
+2026-04-09 20:19:22,978 [INFO] [orch] BotOrchestrator iniciando — 2 entradas em 1 símbolo(s).
+2026-04-09 20:19:22,979 [INFO] ============================================================
+2026-04-09 20:19:22,992 [INFO] [orch] MT5 conectado | Conta: 1003463 | Saldo: 11.11 USD
+2026-04-09 20:19:22,993 [INFO] [orch] Iniciando engine: símbolo=UsaTecJun26 | estratégia=MA200RejectionStrategy
+2026-04-09 20:19:22,993 [INFO] [orch] Thread iniciada: UsaTecJun26-MA200RejectionStrategy
+2026-04-09 20:19:22,994 [INFO] ============================================================
+2026-04-09 20:19:22,994 [INFO] [orch] Iniciando engine: símbolo=UsaTecJun26 | estratégia=POIStrategy
+2026-04-09 20:19:22,994 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-09 20:19:22,994 [INFO] [orch] Thread iniciada: UsaTecJun26-POIStrategy
+2026-04-09 20:19:22,994 [INFO] ============================================================
+2026-04-09 20:19:22,995 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-09 20:19:22,995 [INFO] Iniciando Robô de Trade | Estratégia: POIStrategy
+2026-04-09 20:19:22,995 [INFO] ============================================================
+2026-04-09 20:19:22,995 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-09 20:19:22,996 [INFO] ============================================================
+2026-04-09 21:40:10,345 [INFO] Sinal de VENDA detectado (toque POI candle vivo em 25250.00000 — preço veio de baixo).
+2026-04-09 21:40:10,620 [INFO] Novo sinal: SELL | Preço de referência=25250.00000
+2026-04-09 21:40:10,963 [INFO] Ordem pendente criada: Trade#1 SELL UsaTecJun26 @ 25247.5 SL=25252.5 | PENDING (ticket=636783703)
+2026-04-09 21:40:10,974 [INFO] Nova ordem criada: Trade#1 SELL UsaTecJun26 @ 25247.5 SL=25252.5 | PENDING
+2026-04-09 21:51:52,299 [INFO] Preço cruzou o stop antes da ativação. Cancelando: Trade#1 SELL UsaTecJun26 @ 25247.5 SL=25252.5 | PENDING
+2026-04-09 21:51:52,301 [WARNING] Falha ao cancelar ordem 636783703: Invalid request
+2026-04-09 21:52:26,174 [INFO] Modo de execução: MULTI (orquestrador)
+2026-04-09 21:52:26,254 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-09 21:52:26,258 [INFO] [ONLINE] Configurações carregadas do banco de dados.
+2026-04-09 21:52:26,263 [INFO] [ONLINE] 'UsaTecJun26/ma200_rejection' carregado do banco (id=2).
+2026-04-09 21:52:26,264 [INFO] [ONLINE] 'UsaTecJun26/poi' carregado do banco (id=3).
+2026-04-09 21:52:26,329 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-09 21:52:26,400 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-09 21:52:26,403 [INFO] Conexão PostgreSQL encerrada.
+2026-04-09 21:52:26,404 [INFO] ============================================================
+2026-04-09 21:52:26,404 [INFO] [orch] BotOrchestrator iniciando — 2 entradas em 1 símbolo(s).
+2026-04-09 21:52:26,404 [INFO] ============================================================
+2026-04-09 21:52:26,439 [INFO] [orch] MT5 conectado | Conta: 1003463 | Saldo: 10.11 USD
+2026-04-09 21:52:26,440 [INFO] [orch] Iniciando engine: símbolo=UsaTecJun26 | estratégia=MA200RejectionStrategy
+2026-04-09 21:52:26,440 [INFO] [orch] Thread iniciada: UsaTecJun26-MA200RejectionStrategy
+2026-04-09 21:52:26,440 [INFO] ============================================================
+2026-04-09 21:52:26,440 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-09 21:52:26,441 [INFO] [orch] Iniciando engine: símbolo=UsaTecJun26 | estratégia=POIStrategy
+2026-04-09 21:52:26,441 [INFO] [orch] Thread iniciada: UsaTecJun26-POIStrategy
+2026-04-09 21:52:26,442 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-09 21:52:26,442 [INFO] ============================================================
+2026-04-09 21:52:26,442 [INFO] ============================================================
+2026-04-09 21:52:26,443 [INFO] Iniciando Robô de Trade | Estratégia: POIStrategy
+2026-04-09 21:52:26,443 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-09 21:52:26,443 [INFO] ============================================================
+2026-04-09 21:52:26,470 [INFO] Sinal de VENDA detectado (toque POI candle vivo em 25250.00000 — preço veio de baixo).
+2026-04-09 21:52:26,470 [INFO] Novo sinal: SELL | Preço de referência=25250.00000
+2026-04-09 21:52:26,471 [ERROR] Falha ao enviar ordem: Invalid price (retcode=10015) | order_price=25245.00000  stop_loss=25265.00000  tick_size=0.250000  ref=25250.00000
+2026-04-09 21:53:54,773 [INFO] Modo de execução: MULTI (orquestrador)
+2026-04-09 21:53:54,851 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-09 21:53:54,855 [INFO] [ONLINE] Configurações carregadas do banco de dados.
+2026-04-09 21:53:54,857 [INFO] [ONLINE] 'UsaTecJun26/ma200_rejection' carregado do banco (id=2).
+2026-04-09 21:53:54,858 [INFO] [ONLINE] 'UsaTecJun26/poi' carregado do banco (id=3).
+2026-04-09 21:53:54,926 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-09 21:53:55,030 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-09 21:53:55,034 [INFO] Conexão PostgreSQL encerrada.
+2026-04-09 21:53:55,034 [INFO] ============================================================
+2026-04-09 21:53:55,034 [INFO] [orch] BotOrchestrator iniciando — 2 entradas em 1 símbolo(s).
+2026-04-09 21:53:55,034 [INFO] ============================================================
+2026-04-09 21:53:55,048 [INFO] [orch] MT5 conectado | Conta: 1003463 | Saldo: 10.11 USD
+2026-04-09 21:53:55,049 [INFO] [orch] Iniciando engine: símbolo=UsaTecJun26 | estratégia=MA200RejectionStrategy
+2026-04-09 21:53:55,049 [INFO] [orch] Thread iniciada: UsaTecJun26-MA200RejectionStrategy
+2026-04-09 21:53:55,050 [INFO] ============================================================
+2026-04-09 21:53:55,050 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-09 21:53:55,050 [INFO] [orch] Iniciando engine: símbolo=UsaTecJun26 | estratégia=POIStrategy
+2026-04-09 21:53:55,050 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-09 21:53:55,051 [INFO] [orch] Thread iniciada: UsaTecJun26-POIStrategy
+2026-04-09 21:53:55,051 [INFO] ============================================================
+2026-04-09 21:53:55,051 [INFO] ============================================================
+2026-04-09 21:53:55,051 [INFO] Iniciando Robô de Trade | Estratégia: POIStrategy
+2026-04-09 21:53:55,052 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-09 21:53:55,052 [INFO] ============================================================
+2026-04-09 21:53:55,080 [INFO] Sinal de VENDA detectado (toque POI candle vivo em 25250.00000 — preço veio de baixo).
+2026-04-09 21:53:55,081 [INFO] Novo sinal: SELL | Preço de referência=25250.00000
+2026-04-09 21:53:55,276 [ERROR] Falha ao enviar ordem: Invalid price (retcode=10015) | order_price=25245.00000  stop_loss=25265.00000  tick_size=0.250000  ref=25250.00000
+2026-04-09 21:54:45,925 [INFO] Modo de execução: MULTI (orquestrador)
+2026-04-09 21:54:46,013 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-09 21:54:46,018 [INFO] [ONLINE] Configurações carregadas do banco de dados.
+2026-04-09 21:54:46,024 [INFO] [ONLINE] 'UsaTecJun26/ma200_rejection' carregado do banco (id=2).
+2026-04-09 21:54:46,025 [INFO] [ONLINE] 'UsaTecJun26/poi' carregado do banco (id=3).
+2026-04-09 21:54:46,094 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-09 21:54:46,157 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-09 21:54:46,162 [INFO] Conexão PostgreSQL encerrada.
+2026-04-09 21:54:46,163 [INFO] ============================================================
+2026-04-09 21:54:46,163 [INFO] [orch] BotOrchestrator iniciando — 2 entradas em 1 símbolo(s).
+2026-04-09 21:54:46,163 [INFO] ============================================================
+2026-04-09 21:54:46,178 [INFO] [orch] MT5 conectado | Conta: 1003463 | Saldo: 10.11 USD
+2026-04-09 21:54:46,179 [INFO] [orch] Iniciando engine: símbolo=UsaTecJun26 | estratégia=MA200RejectionStrategy
+2026-04-09 21:54:46,179 [INFO] [orch] Thread iniciada: UsaTecJun26-MA200RejectionStrategy
+2026-04-09 21:54:46,179 [INFO] ============================================================
+2026-04-09 21:54:46,180 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-09 21:54:46,180 [INFO] [orch] Iniciando engine: símbolo=UsaTecJun26 | estratégia=POIStrategy
+2026-04-09 21:54:46,181 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-09 21:54:46,181 [INFO] [orch] Thread iniciada: UsaTecJun26-POIStrategy
+2026-04-09 21:54:46,181 [INFO] ============================================================
+2026-04-09 21:54:46,181 [INFO] ============================================================
+2026-04-09 21:54:46,182 [INFO] Iniciando Robô de Trade | Estratégia: POIStrategy
+2026-04-09 21:54:46,183 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-09 21:54:46,183 [INFO] ============================================================
+2026-04-09 21:54:46,199 [INFO] Sinal de VENDA detectado (toque POI candle vivo em 25250.00000 — preço veio de baixo).
+2026-04-09 21:54:46,201 [INFO] Novo sinal: SELL | Preço de referência=25250.00000
+2026-04-09 21:54:46,202 [ERROR] Falha ao enviar ordem: Invalid price (retcode=10015) | order_price=25245.00000  stop_loss=25265.00000  tick_size=0.250000  ref=25250.00000
+2026-04-10 00:00:06,780 [INFO] Novo dia: resetando contadores diários.
+2026-04-10 00:00:06,780 [INFO] Novo dia: resetando contadores diários.
+2026-04-10 00:00:07,615 [INFO] Novo dia: resetando contadores diários.
+2026-04-10 00:00:07,615 [INFO] Novo dia: resetando contadores diários.
+2026-04-10 00:00:08,184 [INFO] Novo dia: resetando contadores diários.
+2026-04-10 00:00:08,184 [INFO] Novo dia: resetando contadores diários.
+2026-04-10 05:14:13,479 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 05:14:13,481 [INFO] Novo sinal: BUY | Preço de referência=25212.74929
+2026-04-10 05:14:13,692 [INFO] Ordem pendente criada: Trade#1 BUY UsaTecJun26 @ 25215.25 SL=25210.25 | PENDING (ticket=636798058)
+2026-04-10 05:14:13,692 [INFO] Nova ordem criada: Trade#1 BUY UsaTecJun26 @ 25215.25 SL=25210.25 | PENDING
+2026-04-10 05:14:22,381 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 05:14:22,382 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 05:14:22,383 [INFO] Novo sinal: BUY | Preço de referência=25212.76919
+2026-04-10 05:14:22,383 [INFO] Novo sinal: BUY | Preço de referência=25212.76919
+2026-04-10 05:14:22,589 [INFO] Ordem pendente criada: Trade#1 BUY UsaTecJun26 @ 25215.25 SL=25210.25 | PENDING (ticket=636798065)
+2026-04-10 05:14:22,590 [INFO] Nova ordem criada: Trade#1 BUY UsaTecJun26 @ 25215.25 SL=25210.25 | PENDING
+2026-04-10 05:14:22,820 [INFO] Ordem pendente criada: Trade#1 BUY UsaTecJun26 @ 25215.25 SL=25210.25 | PENDING (ticket=636798066)
+2026-04-10 05:14:22,821 [INFO] Nova ordem criada: Trade#1 BUY UsaTecJun26 @ 25215.25 SL=25210.25 | PENDING
+2026-04-10 05:14:23,715 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 05:14:32,602 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 05:14:32,833 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 05:14:33,733 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 05:14:42,629 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 05:14:42,859 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 05:14:43,765 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 05:14:52,660 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 05:14:52,885 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 05:14:53,789 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 05:15:22,723 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 05:15:22,723 [INFO] Novo sinal: BUY | Preço de referência=25212.61225
+2026-04-10 05:15:22,723 [INFO] Símbolo UsaTecJun26 ocupado por outra estratégia. Sinal ignorado.
+2026-04-10 05:15:22,956 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 05:15:22,957 [INFO] Novo sinal: BUY | Preço de referência=25212.61225
+2026-04-10 05:15:22,957 [INFO] Símbolo UsaTecJun26 ocupado por outra estratégia. Sinal ignorado.
+2026-04-10 05:15:23,880 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 05:15:23,880 [INFO] Novo sinal: BUY | Preço de referência=25212.61225
+2026-04-10 05:15:23,880 [INFO] Símbolo UsaTecJun26 ocupado por outra estratégia. Sinal ignorado.
+2026-04-10 05:15:32,747 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 05:15:32,977 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 05:15:33,908 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 05:15:42,771 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 05:15:43,010 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 05:15:43,929 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 05:16:42,908 [INFO] Preço cruzou o stop antes da ativação. Cancelando: Trade#1 BUY UsaTecJun26 @ 25215.25 SL=25210.25 | PENDING
+2026-04-10 05:16:42,913 [WARNING] Falha ao cancelar ordem 636798065: Invalid request
+2026-04-10 05:16:43,143 [INFO] Preço cruzou o stop antes da ativação. Cancelando: Trade#1 BUY UsaTecJun26 @ 25215.25 SL=25210.25 | PENDING
+2026-04-10 05:16:43,144 [WARNING] Falha ao cancelar ordem 636798066: Invalid request
+2026-04-10 05:16:44,060 [INFO] Preço cruzou o stop antes da ativação. Cancelando: Trade#1 BUY UsaTecJun26 @ 25215.25 SL=25210.25 | PENDING
+2026-04-10 05:16:44,061 [WARNING] Falha ao cancelar ordem 636798058: Invalid request
+2026-04-10 05:20:03,354 [INFO] Sinal de VENDA detectado (toque MA200 pela base no candle vivo, sem confirmação).
+2026-04-10 05:20:03,355 [INFO] Novo sinal: SELL | Preço de referência=25213.04935
+2026-04-10 05:20:03,356 [ERROR] Falha ao enviar ordem: Invalid price (retcode=10015) | order_price=25210.50000  stop_loss=25215.50000  tick_size=0.250000  ref=25213.04935
+2026-04-10 05:20:03,661 [INFO] Sinal de VENDA detectado (toque MA200 pela base no candle vivo, sem confirmação).
+2026-04-10 05:20:03,662 [INFO] Novo sinal: SELL | Preço de referência=25213.04188
+2026-04-10 05:20:03,663 [ERROR] Falha ao enviar ordem: Invalid price (retcode=10015) | order_price=25210.50000  stop_loss=25215.50000  tick_size=0.250000  ref=25213.04188
+2026-04-10 05:20:04,524 [INFO] Sinal de VENDA detectado (toque MA200 pela base no candle vivo, sem confirmação).
+2026-04-10 05:20:04,527 [INFO] Novo sinal: SELL | Preço de referência=25213.03940
+2026-04-10 05:20:04,528 [ERROR] Falha ao enviar ordem: Invalid price (retcode=10015) | order_price=25210.50000  stop_loss=25215.50000  tick_size=0.250000  ref=25213.03940
+2026-04-10 07:15:25,885 [INFO] Modo de execução: MULTI (orquestrador)
+2026-04-10 07:15:25,936 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-10 07:15:25,939 [INFO] [ONLINE] Configurações carregadas do banco de dados.
+2026-04-10 07:15:25,942 [INFO] [ONLINE] 'UsaTecJun26/ma200_rejection' carregado do banco (id=2).
+2026-04-10 07:15:25,943 [INFO] [ONLINE] 'UsaTecJun26/poi' carregado do banco (id=3).
+2026-04-10 07:15:25,987 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-10 07:15:26,139 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-10 07:15:26,143 [INFO] Conexão PostgreSQL encerrada.
+2026-04-10 07:15:26,143 [INFO] ============================================================
+2026-04-10 07:15:26,143 [INFO] [orch] BotOrchestrator iniciando — 2 entradas em 1 símbolo(s).
+2026-04-10 07:15:26,143 [INFO] ============================================================
+2026-04-10 07:15:26,156 [INFO] [orch] MT5 conectado | Conta: 6225765 | Saldo: 500.00 USD
+2026-04-10 07:15:26,158 [INFO] [orch] Iniciando engine: símbolo=UsaTecJun26 | estratégia=MA200RejectionStrategy
+2026-04-10 07:15:26,158 [INFO] [orch] Thread iniciada: UsaTecJun26-MA200RejectionStrategy
+2026-04-10 07:15:26,158 [INFO] ============================================================
+2026-04-10 07:15:26,159 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-10 07:15:26,159 [INFO] [orch] Iniciando engine: símbolo=UsaTecJun26 | estratégia=POIStrategy
+2026-04-10 07:15:26,159 [INFO] [orch] Thread iniciada: UsaTecJun26-POIStrategy
+2026-04-10 07:15:26,159 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-10 07:15:26,159 [INFO] ============================================================
+2026-04-10 07:15:26,160 [INFO] ============================================================
+2026-04-10 07:15:26,160 [INFO] Iniciando Robô de Trade | Estratégia: POIStrategy
+2026-04-10 07:15:26,161 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-10 07:15:26,161 [INFO] ============================================================
+2026-04-10 07:15:26,171 [INFO] Sinal de VENDA detectado (toque POI candle vivo em 25250.00000 — preço veio de baixo).
+2026-04-10 07:15:26,181 [INFO] Novo sinal: SELL | Preço de referência=25250.00000
+2026-04-10 07:15:26,181 [ERROR] Falha ao enviar ordem: AutoTrading disabled by client (retcode=10027) | order_price=25245.00000  stop_loss=25265.00000  tick_size=0.250000  ref=25250.00000
+2026-04-10 07:22:00,078 [INFO] Modo de execução: MULTI (orquestrador)
+2026-04-10 07:22:00,126 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-10 07:22:00,129 [INFO] [ONLINE] Configurações carregadas do banco de dados.
+2026-04-10 07:22:00,131 [INFO] [ONLINE] 'UsaTecJun26/ma200_rejection' carregado do banco (id=2).
+2026-04-10 07:22:00,132 [INFO] [ONLINE] 'UsaTecJun26/poi' carregado do banco (id=3).
+2026-04-10 07:22:00,180 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-10 07:22:00,232 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-10 07:22:00,234 [INFO] Conexão PostgreSQL encerrada.
+2026-04-10 07:22:00,235 [INFO] ============================================================
+2026-04-10 07:22:00,235 [INFO] [orch] BotOrchestrator iniciando — 2 entradas em 1 símbolo(s).
+2026-04-10 07:22:00,235 [INFO] ============================================================
+2026-04-10 07:22:00,247 [INFO] [orch] MT5 conectado | Conta: 6225765 | Saldo: 500.00 USD
+2026-04-10 07:22:00,248 [INFO] [orch] Iniciando engine: símbolo=UsaTecJun26 | estratégia=MA200RejectionStrategy
+2026-04-10 07:22:00,248 [INFO] [orch] Thread iniciada: UsaTecJun26-MA200RejectionStrategy
+2026-04-10 07:22:00,248 [INFO] ============================================================
+2026-04-10 07:22:00,248 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-10 07:22:00,248 [INFO] [orch] Iniciando engine: símbolo=UsaTecJun26 | estratégia=POIStrategy
+2026-04-10 07:22:00,248 [INFO] [orch] Thread iniciada: UsaTecJun26-POIStrategy
+2026-04-10 07:22:00,249 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-10 07:22:00,249 [INFO] ============================================================
+2026-04-10 07:22:00,249 [INFO] ============================================================
+2026-04-10 07:22:00,249 [INFO] Iniciando Robô de Trade | Estratégia: POIStrategy
+2026-04-10 07:22:00,250 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-10 07:22:00,250 [INFO] ============================================================
+2026-04-10 09:30:04,746 [INFO] Sinal de VENDA detectado (toque POI candle vivo em 25367.25000 — preço veio de baixo).
+2026-04-10 09:30:04,751 [INFO] Novo sinal: SELL | Preço de referência=25367.25000
+2026-04-10 09:30:04,752 [ERROR] Falha ao enviar ordem: AutoTrading disabled by client (retcode=10027) | order_price=25362.25000  stop_loss=25382.25000  tick_size=0.250000  ref=25367.25000
+2026-04-10 09:30:06,404 [INFO] Sinal de VENDA detectado (toque POI candle vivo em 25367.25000 — preço veio de baixo).
+2026-04-10 09:30:06,408 [INFO] Novo sinal: SELL | Preço de referência=25367.25000
+2026-04-10 09:30:06,409 [ERROR] Falha ao enviar ordem: AutoTrading disabled by client (retcode=10027) | order_price=25362.25000  stop_loss=25382.25000  tick_size=0.250000  ref=25367.25000
+2026-04-10 09:46:16,441 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:46:16,533 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:46:18,186 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:46:18,229 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:46:26,454 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:46:26,547 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:46:28,205 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:46:28,240 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:46:36,459 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:46:36,565 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:46:38,209 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:46:38,260 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:46:46,475 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:46:46,586 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:46:48,228 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:46:48,278 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:46:56,487 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:46:56,598 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:46:58,243 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:46:58,294 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:47:06,504 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:47:06,620 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:47:08,257 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:47:08,306 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:47:16,519 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:47:16,630 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:47:18,262 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:47:18,315 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:47:26,537 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:47:26,650 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:47:28,268 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:47:28,337 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:47:36,556 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:47:36,668 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:47:38,281 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:47:38,346 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:47:46,574 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:47:46,686 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:47:48,286 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:47:48,365 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:47:56,580 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:47:56,703 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:47:58,299 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:47:58,380 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:48:06,597 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:48:06,708 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:48:08,307 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:48:08,387 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:48:16,607 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:48:16,717 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:48:18,325 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:48:18,405 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:48:26,616 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:48:26,727 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:48:28,334 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:48:28,415 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:48:36,619 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:48:36,751 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:48:38,351 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:48:38,433 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:48:46,635 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:48:46,766 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:48:48,367 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:48:48,448 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:48:56,654 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:48:56,778 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:48:58,383 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:48:58,464 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:49:06,664 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:49:06,790 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:49:08,397 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:49:08,477 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:49:16,674 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:49:16,799 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:49:18,415 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:49:18,495 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:49:26,685 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:49:26,811 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:49:28,432 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:49:28,514 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:49:36,700 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:49:36,828 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:49:38,449 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:49:38,530 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:49:46,711 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:49:46,840 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:49:48,459 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:49:48,542 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:49:56,722 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:49:56,853 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:49:58,471 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:49:58,552 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:50:06,733 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:50:06,859 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:50:08,485 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:50:08,564 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:50:16,749 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:50:16,875 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:50:18,497 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:50:18,580 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:50:26,763 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:50:26,891 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:50:28,509 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:50:28,591 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:50:36,775 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:50:36,902 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:50:38,520 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:50:38,599 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:50:46,780 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:50:46,921 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:50:48,526 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:50:48,610 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:50:56,794 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:50:56,937 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:50:58,539 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:50:58,620 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:51:06,807 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:51:06,952 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:51:08,547 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:51:08,631 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:51:16,823 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:51:16,969 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:51:18,553 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:51:18,648 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:51:26,829 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:51:26,995 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:51:28,558 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:51:28,656 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:51:36,849 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:51:37,012 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:51:38,572 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:51:38,669 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:51:46,858 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:51:47,021 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:51:48,577 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:51:48,691 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:51:56,869 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:51:57,044 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:51:58,594 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:51:58,704 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:52:06,880 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:52:07,055 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:52:08,601 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:52:08,715 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:52:16,896 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:52:17,072 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:52:18,610 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:52:18,723 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:52:26,913 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:52:27,089 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:52:28,615 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:52:28,741 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:52:36,928 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:52:37,109 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:52:38,623 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:52:38,753 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:52:46,932 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:52:47,129 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:52:48,635 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:52:48,765 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:52:56,947 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:52:57,138 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:52:58,638 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:52:58,786 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:53:06,962 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:53:07,156 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:53:08,653 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:53:08,795 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:53:16,975 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:53:17,166 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:53:18,669 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:53:18,811 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:53:26,984 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:53:27,175 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:53:28,680 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:53:28,830 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:53:36,994 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:53:37,182 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:53:38,687 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:53:38,849 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:53:47,002 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:53:47,192 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:53:48,696 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:53:48,867 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:53:57,020 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:53:57,211 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:53:58,700 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:53:58,882 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:54:07,032 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:54:07,222 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:54:08,714 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:54:08,891 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:54:17,043 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:54:17,236 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:54:18,729 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:54:18,899 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:54:27,052 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:54:27,243 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:54:28,741 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:54:28,917 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:54:37,066 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:54:37,257 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:54:38,760 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:54:38,933 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:54:47,076 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:54:47,265 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:54:48,768 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:54:48,943 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:54:57,084 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:54:57,275 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:54:58,780 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:54:58,954 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:55:07,091 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:55:07,285 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:55:08,786 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:55:08,959 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:55:17,096 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:55:17,302 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:55:18,798 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:55:18,971 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:55:27,112 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:55:27,316 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:55:28,811 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 09:55:28,987 [ERROR] Erro ao atualizar bot_status: ERRO:  relação "bot_status" não existe
+LINE 2:                 UPDATE bot_status SET
+                               ^
+
+2026-04-10 10:07:57,551 [INFO] Modo de execução: MULTI (orquestrador)
+2026-04-10 10:07:57,743 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-10 10:07:57,746 [INFO] [ONLINE] Configurações carregadas do banco de dados.
+2026-04-10 10:07:57,750 [INFO] [ONLINE] 'UsaTecJun26/ma200_rejection' não encontrado no banco. Inserindo configuração do arquivo offline...
+2026-04-10 10:07:57,753 [INFO] Símbolo 'UsaTecJun26' inserido no banco a partir da configuração offline.
+2026-04-10 10:07:57,754 [INFO] [ONLINE] 'UsaTecJun26/poi' não encontrado no banco. Inserindo configuração do arquivo offline...
+2026-04-10 10:07:57,756 [INFO] Símbolo 'UsaTecJun26' inserido no banco a partir da configuração offline.
+2026-04-10 10:07:57,807 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-10 10:07:57,869 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-10 10:07:57,872 [INFO] Conexão PostgreSQL encerrada.
+2026-04-10 10:07:57,873 [INFO] ============================================================
+2026-04-10 10:07:57,873 [INFO] [orch] BotOrchestrator iniciando — 2 entradas em 1 símbolo(s).
+2026-04-10 10:07:57,874 [INFO] ============================================================
+2026-04-10 10:07:57,896 [INFO] [orch] MT5 conectado | Conta: 1003463 | Saldo: 6.41 USD
+2026-04-10 10:07:57,897 [INFO] [orch] Iniciando engine: símbolo=UsaTecJun26 | estratégia=MA200RejectionStrategy
+2026-04-10 10:07:57,897 [INFO] [orch] Thread iniciada: UsaTecJun26-MA200RejectionStrategy
+2026-04-10 10:07:57,897 [INFO] [discord] Webhook configurado. Notificações ativadas se discord_enabled=true no banco.
+2026-04-10 10:07:57,898 [INFO] ============================================================
+2026-04-10 10:07:57,898 [INFO] [orch] Iniciando engine: símbolo=UsaTecJun26 | estratégia=POIStrategy
+2026-04-10 10:07:57,898 [INFO] [orch] Thread iniciada: UsaTecJun26-POIStrategy
+2026-04-10 10:07:57,898 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-10 10:07:57,898 [INFO] [discord] Webhook configurado. Notificações ativadas se discord_enabled=true no banco.
+2026-04-10 10:07:57,899 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-10 10:07:57,899 [INFO] ============================================================
+2026-04-10 10:07:57,899 [INFO] ============================================================
+2026-04-10 10:07:57,899 [INFO] Iniciando Robô de Trade | Estratégia: POIStrategy
+2026-04-10 10:07:57,900 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-10 10:07:57,900 [INFO] ============================================================
+2026-04-10 10:35:37,175 [INFO] Modo de execução: MULTI (orquestrador)
+2026-04-10 10:35:37,236 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-10 10:35:37,240 [INFO] [ONLINE] Configurações carregadas do banco de dados.
+2026-04-10 10:35:37,242 [INFO] [ONLINE] 'UsaTecJun26/ma200_rejection' carregado do banco (id=2).
+2026-04-10 10:35:37,244 [INFO] [ONLINE] 'UsaTecJun26/poi' carregado do banco (id=3).
+2026-04-10 10:35:37,290 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-10 10:35:37,338 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-10 10:35:37,341 [INFO] Conexão PostgreSQL encerrada.
+2026-04-10 10:35:37,341 [INFO] ============================================================
+2026-04-10 10:35:37,341 [INFO] [orch] BotOrchestrator iniciando — 2 entradas em 1 símbolo(s).
+2026-04-10 10:35:37,341 [INFO] ============================================================
+2026-04-10 10:35:43,900 [INFO] [orch] MT5 conectado | Conta: 1003463 | Saldo: 6.41 USD
+2026-04-10 10:35:43,901 [INFO] [orch] Iniciando engine: símbolo=UsaTecJun26 | estratégia=MA200RejectionStrategy
+2026-04-10 10:35:43,901 [INFO] [orch] Thread iniciada: UsaTecJun26-MA200RejectionStrategy
+2026-04-10 10:35:43,901 [INFO] [discord] Webhook configurado. Notificações ativadas se discord_enabled=true no banco.
+2026-04-10 10:35:43,902 [INFO] ============================================================
+2026-04-10 10:35:43,902 [INFO] [orch] Iniciando engine: símbolo=UsaTecJun26 | estratégia=POIStrategy
+2026-04-10 10:35:43,902 [INFO] [orch] Thread iniciada: UsaTecJun26-POIStrategy
+2026-04-10 10:35:43,902 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-10 10:35:43,902 [INFO] [discord] Webhook configurado. Notificações ativadas se discord_enabled=true no banco.
+2026-04-10 10:35:43,904 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-10 10:35:43,904 [INFO] ============================================================
+2026-04-10 10:35:43,905 [INFO] ============================================================
+2026-04-10 10:35:43,905 [INFO] Iniciando Robô de Trade | Estratégia: POIStrategy
+2026-04-10 10:35:43,906 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-10 10:35:43,907 [INFO] ============================================================
+2026-04-10 10:52:12,050 [INFO] Modo de execução: MULTI (orquestrador)
+2026-04-10 10:52:12,114 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-10 10:52:12,116 [INFO] [ONLINE] Configurações carregadas do banco de dados.
+2026-04-10 10:52:12,119 [INFO] [ONLINE] 'UsaTecJun26/ma200_rejection' carregado do banco (id=2).
+2026-04-10 10:52:12,120 [INFO] [ONLINE] 'UsaTecJun26/poi' carregado do banco (id=3).
+2026-04-10 10:52:12,184 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-10 10:52:12,244 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-10 10:52:12,247 [INFO] Conexão PostgreSQL encerrada.
+2026-04-10 10:52:12,247 [INFO] ============================================================
+2026-04-10 10:52:12,248 [INFO] [orch] BotOrchestrator iniciando — 2 entradas em 1 símbolo(s).
+2026-04-10 10:52:12,248 [INFO] ============================================================
+2026-04-10 10:52:12,259 [INFO] [orch] MT5 conectado | Conta: 6225765 | Saldo: 500.00 USD
+2026-04-10 10:52:12,260 [INFO] [orch] Iniciando engine: símbolo=UsaTecJun26 | estratégia=MA200RejectionStrategy
+2026-04-10 10:52:12,260 [INFO] [orch] Thread iniciada: UsaTecJun26-MA200RejectionStrategy
+2026-04-10 10:52:12,260 [INFO] [discord] Webhook configurado. Notificações ativadas se discord_enabled=true no banco.
+2026-04-10 10:52:12,260 [INFO] ============================================================
+2026-04-10 10:52:12,260 [INFO] [orch] Iniciando engine: símbolo=UsaTecJun26 | estratégia=POIStrategy
+2026-04-10 10:52:12,260 [INFO] [orch] Thread iniciada: UsaTecJun26-POIStrategy
+2026-04-10 10:52:12,261 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-10 10:52:12,261 [INFO] [discord] Webhook configurado. Notificações ativadas se discord_enabled=true no banco.
+2026-04-10 10:52:12,261 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-10 10:52:12,261 [INFO] ============================================================
+2026-04-10 10:52:12,262 [INFO] ============================================================
+2026-04-10 10:52:12,262 [INFO] Iniciando Robô de Trade | Estratégia: POIStrategy
+2026-04-10 10:52:12,262 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-10 10:52:12,263 [INFO] ============================================================
+2026-04-10 11:35:18,655 [INFO] Modo de execução: MULTI (orquestrador)
+2026-04-10 11:35:18,831 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-10 11:35:18,846 [INFO] [ONLINE] Configurações carregadas do banco de dados.
+2026-04-10 11:35:18,850 [INFO] [ONLINE] 'UsaTecJun26/ma200_rejection' carregado do banco (id=2).
+2026-04-10 11:35:18,851 [INFO] [ONLINE] 'UsaTecJun26/poi' carregado do banco (id=3).
+2026-04-10 11:35:18,925 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-10 11:35:18,999 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-10 11:35:19,003 [INFO] Conexão PostgreSQL encerrada.
+2026-04-10 11:35:19,003 [INFO] ============================================================
+2026-04-10 11:35:19,003 [INFO] [orch] BotOrchestrator iniciando — 2 entradas em 1 símbolo(s).
+2026-04-10 11:35:19,007 [INFO] ============================================================
+2026-04-10 11:35:19,021 [INFO] [orch] MT5 conectado | Conta: 6225765 | Saldo: 500.00 USD
+2026-04-10 11:35:19,023 [INFO] [orch] Iniciando engine: símbolo=UsaTecJun26 | estratégia=MA200RejectionStrategy
+2026-04-10 11:35:19,023 [INFO] [orch] Thread iniciada: UsaTecJun26-MA200RejectionStrategy
+2026-04-10 11:35:19,023 [INFO] [discord] Webhook configurado. Notificações ativadas se discord_enabled=true no banco.
+2026-04-10 11:35:19,024 [INFO] ============================================================
+2026-04-10 11:35:19,024 [INFO] [orch] Iniciando engine: símbolo=UsaTecJun26 | estratégia=POIStrategy
+2026-04-10 11:35:19,024 [INFO] [orch] Thread iniciada: UsaTecJun26-POIStrategy
+2026-04-10 11:35:19,024 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-10 11:35:19,024 [INFO] [discord] Webhook configurado. Notificações ativadas se discord_enabled=true no banco.
+2026-04-10 11:35:19,025 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-10 11:35:19,025 [INFO] ============================================================
+2026-04-10 11:35:19,025 [INFO] ============================================================
+2026-04-10 11:35:19,025 [INFO] Iniciando Robô de Trade | Estratégia: POIStrategy
+2026-04-10 11:35:19,025 [INFO] Símbolo: UsaTecJun26 | Lote: 0.01 | TF: M5
+2026-04-10 11:35:19,026 [INFO] ============================================================
+2026-04-10 11:35:19,236 [WARNING] [discord] Falha ao enviar notificação: HTTP Error 403: Forbidden
+2026-04-10 11:35:19,240 [WARNING] [discord] Falha ao enviar notificação: HTTP Error 403: Forbidden
+2026-04-10 14:21:11,973 [INFO] Sinal de COMPRA detectado (toque POI candle vivo em 25239.00000 — preço veio de cima).
+2026-04-10 14:21:11,981 [INFO] Novo sinal: BUY | Preço de referência=25239.00000
+2026-04-10 14:21:11,987 [ERROR] Falha ao enviar ordem: AutoTrading disabled by client (retcode=10027) | order_price=25244.00000  stop_loss=25224.00000  tick_size=0.250000  ref=25239.00000
+2026-04-10 14:52:15,962 [INFO] Sinal de VENDA detectado (toque MA200 pela base no candle vivo, sem confirmação).
+2026-04-10 14:52:15,962 [INFO] Novo sinal: SELL | Preço de referência=25268.79429
+2026-04-10 14:52:15,963 [ERROR] Falha ao enviar ordem: Invalid price (retcode=10015) | order_price=25266.25000  stop_loss=25271.25000  tick_size=0.250000  ref=25268.79429
+2026-04-10 14:52:25,986 [INFO] Sinal de VENDA detectado (toque MA200 pela base no candle vivo, sem confirmação).
+2026-04-10 14:52:35,999 [INFO] Sinal de VENDA detectado (toque MA200 pela base no candle vivo, sem confirmação).
+2026-04-10 14:52:46,038 [INFO] Sinal de VENDA detectado (toque MA200 pela base no candle vivo, sem confirmação).
+2026-04-10 14:52:56,058 [INFO] Sinal de VENDA detectado (toque MA200 pela base no candle vivo, sem confirmação).
+2026-04-10 14:53:06,087 [INFO] Sinal de VENDA detectado (toque MA200 pela base no candle vivo, sem confirmação).
+2026-04-10 14:53:16,107 [INFO] Sinal de VENDA detectado (toque MA200 pela base no candle vivo, sem confirmação).
+2026-04-10 14:53:26,126 [INFO] Sinal de VENDA detectado (toque MA200 pela base no candle vivo, sem confirmação).
+2026-04-10 14:53:36,142 [INFO] Sinal de VENDA detectado (toque MA200 pela base no candle vivo, sem confirmação).
+2026-04-10 14:53:46,165 [INFO] Sinal de VENDA detectado (toque MA200 pela base no candle vivo, sem confirmação).
+2026-04-10 14:55:06,319 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 14:55:06,320 [INFO] Novo sinal: BUY | Preço de referência=25271.26021
+2026-04-10 14:55:06,533 [INFO] Ordem pendente criada: Trade#1 BUY UsaTecJun26 @ 25273.75 SL=25268.75 | PENDING (ticket=5027673213)
+2026-04-10 14:55:06,547 [INFO] Nova ordem criada: Trade#1 BUY UsaTecJun26 @ 25273.75 SL=25268.75 | PENDING
+2026-04-10 14:55:06,619 [WARNING] [discord] Falha ao enviar notificação: HTTP Error 403: Forbidden
+2026-04-10 14:55:16,558 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 14:55:26,572 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 14:55:36,595 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 14:55:46,625 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 14:55:56,648 [INFO] Preço cruzou o stop antes da ativação. Cancelando: Trade#1 BUY UsaTecJun26 @ 25273.75 SL=25268.75 | PENDING
+2026-04-10 14:55:56,649 [WARNING] Falha ao cancelar ordem 5027673213: Invalid request
+2026-04-10 15:20:00,061 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 15:20:00,063 [INFO] Novo sinal: BUY | Preço de referência=25269.55683
+2026-04-10 15:20:00,264 [ERROR] Falha ao enviar ordem: Invalid price (retcode=10015) | order_price=25272.00000  stop_loss=25267.00000  tick_size=0.250000  ref=25269.55683
+2026-04-10 16:00:49,117 [INFO] Sinal de VENDA detectado (toque MA200 pela base no candle vivo, sem confirmação).
+2026-04-10 16:00:49,121 [INFO] Novo sinal: SELL | Preço de referência=25269.08136
+2026-04-10 16:00:49,325 [INFO] Ordem pendente criada: Trade#2 SELL UsaTecJun26 @ 25266.5 SL=25271.5 | PENDING (ticket=5027685667)
+2026-04-10 16:00:49,326 [INFO] Nova ordem criada: Trade#2 SELL UsaTecJun26 @ 25266.5 SL=25271.5 | PENDING
+2026-04-10 16:00:49,435 [WARNING] [discord] Falha ao enviar notificação: HTTP Error 403: Forbidden
+2026-04-10 16:00:59,357 [INFO] Sinal de VENDA detectado (toque MA200 pela base no candle vivo, sem confirmação).
+2026-04-10 16:01:09,374 [INFO] Preço cruzou o stop antes da ativação. Cancelando: Trade#2 SELL UsaTecJun26 @ 25266.5 SL=25271.5 | PENDING
+2026-04-10 16:01:09,375 [WARNING] Falha ao cancelar ordem 5027685667: Invalid request
+2026-04-10 16:06:30,096 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 16:06:30,097 [INFO] Novo sinal: BUY | Preço de referência=25269.32130
+2026-04-10 16:06:30,316 [INFO] Ordem pendente criada: Trade#3 BUY UsaTecJun26 @ 25271.75 SL=25266.75 | PENDING (ticket=5027687041)
+2026-04-10 16:06:30,331 [INFO] Nova ordem criada: Trade#3 BUY UsaTecJun26 @ 25271.75 SL=25266.75 | PENDING
+2026-04-10 16:06:30,404 [WARNING] [discord] Falha ao enviar notificação: HTTP Error 403: Forbidden
+2026-04-10 16:06:40,347 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 16:06:50,360 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 16:07:00,381 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 16:07:10,406 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 16:07:20,429 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 16:07:30,463 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 16:07:40,484 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 16:07:50,494 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 16:08:00,518 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 16:08:10,544 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 16:08:20,577 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 16:08:30,602 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 16:08:40,619 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 16:08:50,648 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 16:09:00,660 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 16:09:10,668 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 16:09:20,686 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 16:09:30,700 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 16:09:40,713 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 16:09:50,729 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 16:12:51,094 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 16:12:51,100 [INFO] Novo sinal: BUY | Preço de referência=25270.25881
+2026-04-10 16:12:51,100 [INFO] Símbolo UsaTecJun26 ocupado por outra estratégia. Sinal ignorado.
+2026-04-10 16:13:01,131 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 16:13:11,145 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 16:13:21,171 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 16:13:31,200 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 16:13:41,224 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 16:13:51,242 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 16:14:01,261 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 16:14:11,286 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 16:14:21,303 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 16:14:31,319 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 16:14:41,349 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 16:14:51,367 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 16:37:54,293 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 16:37:54,295 [INFO] Novo sinal: BUY | Preço de referência=25270.75602
+2026-04-10 16:37:54,295 [INFO] Símbolo UsaTecJun26 ocupado por outra estratégia. Sinal ignorado.
+2026-04-10 16:38:04,304 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 16:38:14,320 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 16:38:24,333 [INFO] Ordem ativada: Trade#3 BUY UsaTecJun26 @ 25271.75 SL=25266.75 | OPEN @ 25271.75000
+2026-04-10 16:38:24,521 [WARNING] [discord] Falha ao enviar notificação: HTTP Error 403: Forbidden
+2026-04-10 16:38:44,611 [INFO] Fechamento parcial parcial1 realizado: 0.01 lotes | Trade#3
+2026-04-10 16:38:44,760 [WARNING] [discord] Falha ao enviar notificação: HTTP Error 403: Forbidden
+2026-04-10 16:38:54,660 [INFO] Posição fechada no alvo: Trade#3 BUY UsaTecJun26 @ 25271.75 SL=25266.75 | CLOSED | PnL: 0.85 | PnL do dia: 0.85
+2026-04-10 16:38:54,763 [WARNING] [discord] Falha ao enviar notificação: HTTP Error 403: Forbidden
+2026-04-10 16:46:55,805 [INFO] Sinal de COMPRA detectado (toque MA200 pelo alto no candle vivo, sem confirmação).
+2026-04-10 16:46:55,806 [INFO] Novo sinal: BUY | Preço de referência=25270.47744
+2026-04-10 16:46:56,007 [ERROR] Falha ao enviar ordem: Invalid price (retcode=10015) | order_price=25273.00000  stop_loss=25268.00000  tick_size=0.250000  ref=25270.47744
+2026-04-11 00:18:31,847 [INFO] Novo dia: resetando contadores diários.
+2026-04-11 00:18:37,127 [INFO] Novo dia: resetando contadores diários.
+2026-04-12 00:00:00,396 [INFO] Novo dia: resetando contadores diários.
+2026-04-12 00:00:00,410 [INFO] Novo dia: resetando contadores diários.
+2026-04-13 18:06:56,899 [INFO] Novo dia: resetando contadores diários.
+2026-04-13 18:06:59,836 [INFO] Novo dia: resetando contadores diários.
+2026-04-13 18:55:31,165 [INFO] Modo de execução: MULTI (orquestrador)
+2026-04-13 18:55:31,402 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-13 18:55:31,406 [INFO] [ONLINE] Configurações carregadas do banco de dados.
+2026-04-13 18:55:31,411 [INFO] [ONLINE] 'UsaTecJun26/ma200_rejection' carregado do banco (id=2).
+2026-04-13 18:55:31,413 [INFO] [ONLINE] 'UsaTecJun26/poi' carregado do banco (id=3).
+2026-04-13 18:55:31,483 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-13 18:55:31,558 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-13 18:55:31,562 [INFO] Conexão PostgreSQL encerrada.
+2026-04-13 18:55:31,563 [INFO] ============================================================
+2026-04-13 18:55:31,563 [INFO] [orch] BotOrchestrator iniciando — 2 entradas em 1 símbolo(s).
+2026-04-13 18:55:31,563 [INFO] ============================================================
+2026-04-13 18:55:31,601 [INFO] [orch] MT5 conectado | Conta: 1003463 | Saldo: 6.41 USD
+2026-04-13 18:55:31,602 [INFO] [orch] Iniciando engine: símbolo=UsaTecJun26 | estratégia=MA200RejectionStrategy
+2026-04-13 18:55:31,602 [INFO] [orch] Thread iniciada: UsaTecJun26-MA200RejectionStrategy
+2026-04-13 18:55:31,603 [INFO] [discord] Webhook configurado. Notificações ativadas se discord_enabled=true no banco.
+2026-04-13 18:55:31,603 [INFO] [orch] Iniciando engine: símbolo=UsaTecJun26 | estratégia=POIStrategy
+2026-04-13 18:55:31,603 [INFO] ============================================================
+2026-04-13 18:55:31,603 [INFO] [orch] Thread iniciada: UsaTecJun26-POIStrategy
+2026-04-13 18:55:31,605 [INFO] [discord] Webhook configurado. Notificações ativadas se discord_enabled=true no banco.
+2026-04-13 18:55:31,605 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-13 18:55:31,605 [INFO] ============================================================
+2026-04-13 18:55:31,606 [INFO] Símbolo: UsaTecJun26 | Lote: 0.10 | TF: M5
+2026-04-13 18:55:31,607 [INFO] Iniciando Robô de Trade | Estratégia: POIStrategy
+2026-04-13 18:55:31,607 [INFO] ============================================================
+2026-04-13 18:55:31,607 [INFO] Símbolo: UsaTecJun26 | Lote: 0.10 | TF: M5
+2026-04-13 18:55:31,609 [INFO] ============================================================
+2026-04-13 18:55:31,833 [WARNING] [discord] Falha ao enviar notificação: HTTP Error 403: Forbidden
+2026-04-13 18:55:31,834 [WARNING] [discord] Falha ao enviar notificação: HTTP Error 403: Forbidden
+2026-04-13 19:15:28,691 [INFO] Modo de execução: MULTI (orquestrador)
+2026-04-13 19:15:28,779 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-13 19:15:28,794 [INFO] [ONLINE] Configurações carregadas do banco de dados.
+2026-04-13 19:15:28,804 [INFO] [ONLINE] 'UsaTecJun26/ma200_rejection' carregado do banco (id=2).
+2026-04-13 19:15:28,809 [INFO] [ONLINE] 'UsaTecJun26/poi' carregado do banco (id=3).
+2026-04-13 19:15:28,941 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-13 19:15:29,040 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-13 19:15:29,045 [INFO] Conexão PostgreSQL encerrada.
+2026-04-13 19:15:29,045 [INFO] ============================================================
+2026-04-13 19:15:29,046 [INFO] [orch] BotOrchestrator iniciando — 2 entradas em 1 símbolo(s).
+2026-04-13 19:15:29,046 [INFO] ============================================================
+2026-04-13 19:15:29,065 [INFO] [orch] MT5 conectado | Conta: 1003463 | Saldo: 6.41 USD
+2026-04-13 19:15:29,066 [INFO] [orch] Iniciando engine: símbolo=UsaTecJun26 | estratégia=MA200RejectionStrategy
+2026-04-13 19:15:29,066 [INFO] [orch] Thread iniciada: UsaTecJun26-MA200RejectionStrategy
+2026-04-13 19:15:29,066 [INFO] [discord] Webhook configurado. Notificações ativadas se discord_enabled=true no banco.
+2026-04-13 19:15:29,067 [INFO] ============================================================
+2026-04-13 19:15:29,067 [INFO] [orch] Iniciando engine: símbolo=UsaTecJun26 | estratégia=POIStrategy
+2026-04-13 19:15:29,067 [INFO] [orch] Thread iniciada: UsaTecJun26-POIStrategy
+2026-04-13 19:15:29,071 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-13 19:15:29,072 [INFO] [discord] Webhook configurado. Notificações ativadas se discord_enabled=true no banco.
+2026-04-13 19:15:29,073 [INFO] Símbolo: UsaTecJun26 | Lote: 0.10 | TF: M5
+2026-04-13 19:15:29,074 [INFO] ============================================================
+2026-04-13 19:15:29,074 [INFO] ============================================================
+2026-04-13 19:15:29,074 [INFO] Iniciando Robô de Trade | Estratégia: POIStrategy
+2026-04-13 19:15:29,075 [INFO] Símbolo: UsaTecJun26 | Lote: 0.10 | TF: M5
+2026-04-13 19:15:29,075 [INFO] ============================================================
+2026-04-13 19:15:29,281 [WARNING] [discord] Falha ao enviar notificação: HTTP Error 403: Forbidden
+2026-04-13 19:15:29,285 [WARNING] [discord] Falha ao enviar notificação: HTTP Error 403: Forbidden
+2026-04-13 19:20:01,337 [INFO] Modo de execução: MULTI (orquestrador)
+2026-04-13 19:20:01,426 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-13 19:20:01,431 [INFO] [ONLINE] Configurações carregadas do banco de dados.
+2026-04-13 19:20:01,437 [INFO] [ONLINE] 'UsaTecJun26/ma200_rejection' carregado do banco (id=2).
+2026-04-13 19:20:01,439 [INFO] [ONLINE] 'UsaTecJun26/poi' carregado do banco (id=3).
+2026-04-13 19:20:01,507 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-13 19:20:01,580 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-13 19:20:01,585 [INFO] Conexão PostgreSQL encerrada.
+2026-04-13 19:20:01,585 [INFO] ============================================================
+2026-04-13 19:20:01,586 [INFO] [orch] BotOrchestrator iniciando — 2 entradas em 1 símbolo(s).
+2026-04-13 19:20:01,586 [INFO] ============================================================
+2026-04-13 19:20:01,603 [INFO] [orch] MT5 conectado | Conta: 6225765 | Saldo: 498.90 USD
+2026-04-13 19:20:01,604 [INFO] [orch] Iniciando engine: símbolo=UsaTecJun26 | estratégia=MA200RejectionStrategy
+2026-04-13 19:20:01,604 [INFO] [orch] Thread iniciada: UsaTecJun26-MA200RejectionStrategy
+2026-04-13 19:20:01,605 [INFO] [discord] Webhook configurado. Notificações ativadas se discord_enabled=true no banco.
+2026-04-13 19:20:01,605 [INFO] [orch] Iniciando engine: símbolo=UsaTecJun26 | estratégia=POIStrategy
+2026-04-13 19:20:01,606 [INFO] ============================================================
+2026-04-13 19:20:01,606 [INFO] [orch] Thread iniciada: UsaTecJun26-POIStrategy
+2026-04-13 19:20:01,606 [INFO] [discord] Webhook configurado. Notificações ativadas se discord_enabled=true no banco.
+2026-04-13 19:20:01,606 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-13 19:20:01,606 [INFO] ============================================================
+2026-04-13 19:20:01,607 [INFO] Símbolo: UsaTecJun26 | Lote: 0.10 | TF: M5
+2026-04-13 19:20:01,607 [INFO] Iniciando Robô de Trade | Estratégia: POIStrategy
+2026-04-13 19:20:01,607 [INFO] ============================================================
+2026-04-13 19:20:01,607 [INFO] Símbolo: UsaTecJun26 | Lote: 0.10 | TF: M5
+2026-04-13 19:20:01,608 [INFO] ============================================================
+2026-04-13 19:20:01,786 [WARNING] [discord] Falha ao enviar notificação: HTTP Error 403: Forbidden
+2026-04-13 19:20:01,791 [WARNING] [discord] Falha ao enviar notificação: HTTP Error 403: Forbidden
+2026-04-13 19:30:40,466 [INFO] Modo de execução: MULTI (orquestrador)
+2026-04-13 19:30:40,585 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-13 19:30:40,594 [INFO] Linha de bot_status criada (id=1).
+2026-04-13 19:30:40,594 [INFO] [ONLINE] Configurações carregadas do banco de dados.
+2026-04-13 19:30:40,598 [INFO] [ONLINE] 'UsaTecJun26/ma200_rejection' não encontrado no banco. Inserindo configuração do arquivo offline...
+2026-04-13 19:30:40,602 [INFO] Símbolo 'UsaTecJun26' inserido no banco a partir da configuração offline.
+2026-04-13 19:30:40,604 [INFO] [ONLINE] 'UsaTecJun26/poi' não encontrado no banco. Inserindo configuração do arquivo offline...
+2026-04-13 19:30:40,607 [INFO] Símbolo 'UsaTecJun26' inserido no banco a partir da configuração offline.
+2026-04-13 19:30:40,683 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-13 19:30:40,775 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-13 19:30:40,779 [INFO] Conexão PostgreSQL encerrada.
+2026-04-13 19:30:40,780 [INFO] ============================================================
+2026-04-13 19:30:40,781 [INFO] [orch] BotOrchestrator iniciando — 2 entradas em 1 símbolo(s).
+2026-04-13 19:30:40,781 [INFO] ============================================================
+2026-04-13 19:30:40,799 [INFO] [orch] MT5 conectado | Conta: 6225765 | Saldo: 498.90 USD
+2026-04-13 19:30:40,804 [INFO] [orch] Iniciando engine: símbolo=UsaTecJun26 | estratégia=MA200RejectionStrategy
+2026-04-13 19:30:40,804 [INFO] [orch] Thread iniciada: UsaTecJun26-MA200RejectionStrategy
+2026-04-13 19:30:40,805 [INFO] [discord] Webhook configurado. Notificações ativadas se discord_enabled=true no banco.
+2026-04-13 19:30:40,805 [INFO] ============================================================
+2026-04-13 19:30:40,806 [INFO] [orch] Iniciando engine: símbolo=UsaTecJun26 | estratégia=POIStrategy
+2026-04-13 19:30:40,806 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-13 19:30:40,806 [INFO] [orch] Thread iniciada: UsaTecJun26-POIStrategy
+2026-04-13 19:30:40,806 [INFO] [discord] Webhook configurado. Notificações ativadas se discord_enabled=true no banco.
+2026-04-13 19:30:40,807 [INFO] Símbolo: UsaTecJun26 | Lote: 0.10 | TF: M5
+2026-04-13 19:30:40,807 [INFO] ============================================================
+2026-04-13 19:30:40,808 [INFO] ============================================================
+2026-04-13 19:30:40,808 [INFO] Iniciando Robô de Trade | Estratégia: POIStrategy
+2026-04-13 19:30:40,809 [INFO] Símbolo: UsaTecJun26 | Lote: 0.10 | TF: M5
+2026-04-13 19:30:40,809 [INFO] ============================================================
+2026-04-13 19:45:56,670 [INFO] Modo de execução: MULTI (orquestrador)
+2026-04-13 19:45:56,742 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-13 19:45:56,746 [INFO] [ONLINE] Configurações carregadas do banco de dados.
+2026-04-13 19:45:56,751 [INFO] [ONLINE] 'UsaTecJun26/ma200_rejection' carregado do banco (id=1).
+2026-04-13 19:45:56,751 [INFO] [ONLINE] 'UsaTecJun26/poi' carregado do banco (id=2).
+2026-04-13 19:45:56,919 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-13 19:45:56,989 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-13 19:45:56,995 [INFO] Conexão PostgreSQL encerrada.
+2026-04-13 19:45:56,996 [INFO] ============================================================
+2026-04-13 19:45:56,996 [INFO] [orch] BotOrchestrator iniciando — 2 entradas em 1 símbolo(s).
+2026-04-13 19:45:56,997 [INFO] ============================================================
+2026-04-13 19:45:57,011 [INFO] [orch] MT5 conectado | Conta: 6225765 | Saldo: 498.90 USD
+2026-04-13 19:45:57,012 [INFO] [orch] Iniciando engine: símbolo=UsaTecJun26 | estratégia=MA200RejectionStrategy
+2026-04-13 19:45:57,014 [INFO] [orch] Thread iniciada: UsaTecJun26-MA200RejectionStrategy
+2026-04-13 19:45:57,014 [INFO] [discord] Webhook configurado. Notificações ativadas se discord_enabled=true no banco.
+2026-04-13 19:45:57,017 [INFO] ============================================================
+2026-04-13 19:45:57,018 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-13 19:45:57,018 [INFO] [orch] Iniciando engine: símbolo=UsaTecJun26 | estratégia=POIStrategy
+2026-04-13 19:45:57,019 [INFO] [orch] Thread iniciada: UsaTecJun26-POIStrategy
+2026-04-13 19:45:57,019 [INFO] Símbolo: UsaTecJun26 | Lote: 0.10 | TF: M5
+2026-04-13 19:45:57,019 [INFO] [discord] Webhook configurado. Notificações ativadas se discord_enabled=true no banco.
+2026-04-13 19:45:57,020 [INFO] ============================================================
+2026-04-13 19:45:57,020 [INFO] ============================================================
+2026-04-13 19:45:57,021 [INFO] Iniciando Robô de Trade | Estratégia: POIStrategy
+2026-04-13 19:45:57,021 [INFO] Símbolo: UsaTecJun26 | Lote: 0.10 | TF: M5
+2026-04-13 19:45:57,022 [INFO] ============================================================
+2026-04-13 19:45:57,244 [WARNING] [discord] Falha ao enviar notificação: HTTP Error 403: Forbidden
+2026-04-13 19:45:57,254 [WARNING] [discord] Falha ao enviar notificação: HTTP Error 403: Forbidden
+2026-04-13 19:50:50,193 [INFO] Modo de execução: MULTI (orquestrador)
+2026-04-13 19:50:50,303 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-13 19:50:50,308 [INFO] [ONLINE] Configurações carregadas do banco de dados.
+2026-04-13 19:50:50,316 [INFO] [ONLINE] 'UsaTecJun26/ma200_rejection' carregado do banco (id=1).
+2026-04-13 19:50:50,320 [INFO] [ONLINE] 'UsaTecJun26/poi' carregado do banco (id=2).
+2026-04-13 19:50:50,538 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-13 19:50:50,642 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-13 19:50:50,648 [INFO] Conexão PostgreSQL encerrada.
+2026-04-13 19:50:50,650 [INFO] ============================================================
+2026-04-13 19:50:50,651 [INFO] [orch] BotOrchestrator iniciando — 2 entradas em 1 símbolo(s).
+2026-04-13 19:50:50,652 [INFO] ============================================================
+2026-04-13 19:50:50,676 [INFO] [orch] MT5 conectado | Conta: 6225765 | Saldo: 498.90 USD
+2026-04-13 19:50:50,677 [INFO] [orch] Iniciando engine: símbolo=UsaTecJun26 | estratégia=MA200RejectionStrategy
+2026-04-13 19:50:50,678 [INFO] [orch] Thread iniciada: UsaTecJun26-MA200RejectionStrategy
+2026-04-13 19:50:50,678 [INFO] [discord] Webhook configurado. Notificações ativadas se discord_enabled=true no banco.
+2026-04-13 19:50:50,679 [INFO] ============================================================
+2026-04-13 19:50:50,679 [INFO] [orch] Iniciando engine: símbolo=UsaTecJun26 | estratégia=POIStrategy
+2026-04-13 19:50:50,679 [INFO] [orch] Thread iniciada: UsaTecJun26-POIStrategy
+2026-04-13 19:50:50,680 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-13 19:50:50,680 [INFO] [discord] Webhook configurado. Notificações ativadas se discord_enabled=true no banco.
+2026-04-13 19:50:50,681 [INFO] Símbolo: UsaTecJun26 | Lote: 0.10 | TF: M5
+2026-04-13 19:50:50,682 [INFO] ============================================================
+2026-04-13 19:50:50,683 [INFO] ============================================================
+2026-04-13 19:50:50,684 [INFO] Iniciando Robô de Trade | Estratégia: POIStrategy
+2026-04-13 19:50:50,686 [INFO] Símbolo: UsaTecJun26 | Lote: 0.10 | TF: M5
+2026-04-13 19:50:50,686 [INFO] ============================================================
+2026-04-13 19:50:50,773 [INFO] Sinal de VENDA detectado (toque POI candle vivo em 25596.00000 — preço veio de baixo).
+2026-04-13 19:50:50,788 [INFO] Novo sinal: SELL | Preço de referência=25596.00000
+2026-04-13 19:50:50,798 [ERROR] Falha ao enviar ordem: AutoTrading disabled by client (retcode=10027) | order_price=25591.00000  stop_loss=25611.00000  tick_size=0.250000  ref=25596.00000
+2026-04-13 19:50:50,943 [WARNING] [discord] Falha ao enviar notificação: HTTP Error 403: Forbidden
+2026-04-13 19:50:50,959 [WARNING] [discord] Falha ao enviar notificação: HTTP Error 403: Forbidden
+2026-04-13 19:51:14,103 [INFO] Modo de execução: MULTI (orquestrador)
+2026-04-13 19:51:14,220 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-13 19:51:14,228 [INFO] [ONLINE] Configurações carregadas do banco de dados.
+2026-04-13 19:51:14,235 [INFO] [ONLINE] 'UsaTecJun26/ma200_rejection' carregado do banco (id=1).
+2026-04-13 19:51:14,237 [INFO] [ONLINE] 'UsaTecJun26/poi' carregado do banco (id=2).
+2026-04-13 19:51:14,340 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-13 19:51:14,441 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-13 19:51:14,449 [INFO] Conexão PostgreSQL encerrada.
+2026-04-13 19:51:14,451 [INFO] ============================================================
+2026-04-13 19:51:14,452 [INFO] [orch] BotOrchestrator iniciando — 2 entradas em 1 símbolo(s).
+2026-04-13 19:51:14,453 [INFO] ============================================================
+2026-04-13 19:51:14,475 [INFO] [orch] MT5 conectado | Conta: 6225765 | Saldo: 498.90 USD
+2026-04-13 19:51:14,477 [INFO] [orch] Iniciando engine: símbolo=UsaTecJun26 | estratégia=MA200RejectionStrategy
+2026-04-13 19:51:14,477 [INFO] [orch] Thread iniciada: UsaTecJun26-MA200RejectionStrategy
+2026-04-13 19:51:14,478 [INFO] [discord] Webhook configurado. Notificações ativadas se discord_enabled=true no banco.
+2026-04-13 19:51:14,479 [INFO] ============================================================
+2026-04-13 19:51:14,479 [INFO] [orch] Iniciando engine: símbolo=UsaTecJun26 | estratégia=POIStrategy
+2026-04-13 19:51:14,479 [INFO] [orch] Thread iniciada: UsaTecJun26-POIStrategy
+2026-04-13 19:51:14,479 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-13 19:51:14,480 [INFO] [discord] Webhook configurado. Notificações ativadas se discord_enabled=true no banco.
+2026-04-13 19:51:14,480 [INFO] Símbolo: UsaTecJun26 | Lote: 0.10 | TF: M5
+2026-04-13 19:51:14,482 [INFO] ============================================================
+2026-04-13 19:51:14,483 [INFO] ============================================================
+2026-04-13 19:51:14,484 [INFO] Iniciando Robô de Trade | Estratégia: POIStrategy
+2026-04-13 19:51:14,486 [INFO] Símbolo: UsaTecJun26 | Lote: 0.10 | TF: M5
+2026-04-13 19:51:14,487 [INFO] ============================================================
+2026-04-13 19:51:14,558 [INFO] Sinal de VENDA detectado (toque POI candle vivo em 25596.00000 — preço veio de baixo).
+2026-04-13 19:51:14,590 [INFO] Novo sinal: SELL | Preço de referência=25596.00000
+2026-04-13 19:51:14,839 [INFO] Ordem pendente criada: Trade#1 SELL UsaTecJun26 @ 25591.0 SL=25611.0 | PENDING (ticket=5027785921)
+2026-04-13 19:51:14,876 [INFO] Nova ordem criada: Trade#1 SELL UsaTecJun26 @ 25591.0 SL=25611.0 | PENDING
+2026-04-13 19:51:14,979 [WARNING] [discord] Falha ao enviar notificação: HTTP Error 403: Forbidden
+2026-04-13 19:51:14,984 [WARNING] [discord] Falha ao enviar notificação: HTTP Error 403: Forbidden
+2026-04-13 19:51:15,009 [WARNING] [discord] Falha ao enviar notificação: HTTP Error 403: Forbidden
+2026-04-13 19:54:05,215 [INFO] Ordem ativada: Trade#1 SELL UsaTecJun26 @ 25591.0 SL=25611.0 | OPEN @ 25591.00000
+2026-04-13 19:54:05,392 [WARNING] [discord] Falha ao enviar notificação: HTTP Error 403: Forbidden
+2026-04-13 20:07:57,097 [WARNING] STOP atingido: Trade#1 SELL UsaTecJun26 @ 25591.0 SL=25611.0 | CLOSED | PnL: -35.50 | Stops hoje: 1 | PnL do dia: -35.50
+2026-04-13 20:07:57,106 [INFO] Posição fechada no alvo: Trade#1 SELL UsaTecJun26 @ 25591.0 SL=25611.0 | CLOSED | PnL: -35.50 | PnL do dia: -35.50
+2026-04-13 20:07:57,689 [WARNING] [discord] Falha ao enviar notificação: HTTP Error 403: Forbidden
+2026-04-13 20:30:45,823 [INFO] Modo de execução: MULTI (orquestrador)
+2026-04-13 20:30:45,882 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-13 20:30:45,885 [INFO] [ONLINE] Configurações carregadas do banco de dados.
+2026-04-13 20:30:45,888 [INFO] [ONLINE] 'UsaTecJun26/ma200_rejection' carregado do banco (id=1).
+2026-04-13 20:30:45,889 [INFO] [ONLINE] 'UsaTecJun26/poi' carregado do banco (id=2).
+2026-04-13 20:30:46,067 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-13 20:30:46,231 [INFO] Conectado ao PostgreSQL (tradebot).
+2026-04-13 20:30:46,234 [INFO] Conexão PostgreSQL encerrada.
+2026-04-13 20:30:46,234 [INFO] ============================================================
+2026-04-13 20:30:46,234 [INFO] [orch] BotOrchestrator iniciando — 2 entradas em 1 símbolo(s).
+2026-04-13 20:30:46,235 [INFO] ============================================================
+2026-04-13 20:30:46,248 [INFO] [orch] MT5 conectado | Conta: 6225765 | Saldo: 463.40 USD
+2026-04-13 20:30:46,249 [INFO] [orch] Iniciando engine: símbolo=UsaTecJun26 | estratégia=MA200RejectionStrategy
+2026-04-13 20:30:46,249 [INFO] [orch] Thread iniciada: UsaTecJun26-MA200RejectionStrategy
+2026-04-13 20:30:46,249 [INFO] [discord] Webhook configurado. Notificações ativadas se discord_enabled=true no banco.
+2026-04-13 20:30:46,250 [INFO] ============================================================
+2026-04-13 20:30:46,250 [INFO] [orch] Iniciando engine: símbolo=UsaTecJun26 | estratégia=POIStrategy
+2026-04-13 20:30:46,250 [INFO] [orch] Thread iniciada: UsaTecJun26-POIStrategy
+2026-04-13 20:30:46,250 [INFO] Iniciando Robô de Trade | Estratégia: MA200RejectionStrategy
+2026-04-13 20:30:46,251 [INFO] [discord] Webhook configurado. Notificações ativadas se discord_enabled=true no banco.
+2026-04-13 20:30:46,251 [INFO] Símbolo: UsaTecJun26 | Lote: 0.10 | TF: M5
+2026-04-13 20:30:46,251 [INFO] ============================================================
+2026-04-13 20:30:46,251 [INFO] ============================================================
+2026-04-13 20:30:46,252 [INFO] Iniciando Robô de Trade | Estratégia: POIStrategy
+2026-04-13 20:30:46,252 [INFO] Símbolo: UsaTecJun26 | Lote: 0.10 | TF: M5
+2026-04-13 20:30:46,253 [INFO] ============================================================
+2026-04-13 20:30:46,787 [WARNING] [discord] Falha ao enviar notificação: HTTP Error 403: Forbidden
+2026-04-13 20:30:46,787 [WARNING] [discord] Falha ao enviar notificação: HTTP Error 403: Forbidden

@@ -1,0 +1,593 @@
+openapi: 3.1.0
+info:
+  # Do not change the title, if the title changes, the import paths will be broken
+  title: Api
+  version: 0.1.0
+  description: Trade Bot API specification
+servers:
+  - url: /api
+    description: Base API path
+tags:
+  - name: health
+    description: Health operations
+  - name: bot
+    description: Trade bot operations
+paths:
+  /healthz:
+    get:
+      operationId: healthCheck
+      tags: [health]
+      summary: Health check
+      description: Returns server health status
+      responses:
+        "200":
+          description: Healthy
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/HealthStatus"
+
+  /bot/configs:
+    get:
+      operationId: listSymbolConfigs
+      tags: [bot]
+      summary: List all symbol configurations
+      description: Returns all per-symbol bot configurations ordered by symbol name
+      responses:
+        "200":
+          description: List of symbol configurations
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: "#/components/schemas/BotConfig"
+    post:
+      operationId: createSymbolConfig
+      tags: [bot]
+      summary: Create a new symbol configuration
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/BotConfigInput"
+      responses:
+        "201":
+          description: Created symbol configuration
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/BotConfig"
+        "400":
+          description: Validation error
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "409":
+          description: Symbol already exists
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+
+  /bot/configs/{symbol}:
+    get:
+      operationId: getSymbolConfig
+      tags: [bot]
+      summary: Get configuration for a specific symbol
+      parameters:
+        - name: symbol
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        "200":
+          description: Symbol configuration
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/BotConfig"
+        "404":
+          description: Symbol not found
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+    put:
+      operationId: updateSymbolConfig
+      tags: [bot]
+      summary: Update configuration for a specific symbol
+      parameters:
+        - name: symbol
+          in: path
+          required: true
+          schema:
+            type: string
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/BotConfigInput"
+      responses:
+        "200":
+          description: Updated symbol configuration
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/BotConfig"
+        "400":
+          description: Validation error
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "404":
+          description: Symbol not found
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+    delete:
+      operationId: deleteSymbolConfig
+      tags: [bot]
+      summary: Delete configuration for a specific symbol
+      parameters:
+        - name: symbol
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        "204":
+          description: Deleted successfully
+        "404":
+          description: Symbol not found
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+
+  /bot/config:
+    get:
+      operationId: getBotConfig
+      tags: [bot]
+      summary: Get bot configuration (legacy — returns first symbol's config)
+      description: Backward-compatible alias for GET /bot/configs. Returns the first configuration ordered by symbol.
+      responses:
+        "200":
+          description: Bot configuration
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/BotConfig"
+    put:
+      operationId: updateBotConfig
+      tags: [bot]
+      summary: Update bot configuration (legacy — updates first symbol's config)
+      description: Backward-compatible alias for PUT /bot/configs/{symbol}. Updates the first configuration ordered by symbol.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/BotConfigInput"
+      responses:
+        "200":
+          description: Updated configuration
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/BotConfig"
+
+  /bot/status:
+    get:
+      operationId: getBotStatus
+      tags: [bot]
+      summary: Get current bot status and stats
+      responses:
+        "200":
+          description: Bot status
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/BotStatus"
+
+  /bot/trades:
+    get:
+      operationId: listTrades
+      tags: [bot]
+      summary: List all trades
+      parameters:
+        - name: limit
+          in: query
+          schema:
+            type: integer
+            default: 50
+        - name: status
+          in: query
+          schema:
+            type: string
+            enum: [open, closed, cancelled]
+      responses:
+        "200":
+          description: List of trades
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: "#/components/schemas/Trade"
+
+  /bot/trades/{id}:
+    get:
+      operationId: getTrade
+      tags: [bot]
+      summary: Get a specific trade
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: integer
+      responses:
+        "200":
+          description: Trade details
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Trade"
+
+  /bot/summary:
+    get:
+      operationId: getBotSummary
+      tags: [bot]
+      summary: Get bot performance summary
+      responses:
+        "200":
+          description: Performance summary
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/BotSummary"
+
+components:
+  schemas:
+    HealthStatus:
+      type: object
+      properties:
+        status:
+          type: string
+      required:
+        - status
+
+    ErrorResponse:
+      type: object
+      properties:
+        error:
+          type: string
+      required:
+        - error
+
+    BotConfig:
+      type: object
+      description: Full bot configuration for a trading symbol, including all risk and time-window settings
+      properties:
+        id:
+          type: integer
+          description: Database ID
+        symbol:
+          type: string
+          description: Trading symbol (e.g. WINM25)
+        strategyName:
+          type: string
+          description: Strategy identifier (e.g. ma200_rejection)
+        strategyParams:
+          type: object
+          description: Strategy-specific parameters as free-form JSON
+        lotSize:
+          type: number
+          description: Position size in lots
+        ma200Period:
+          type: integer
+          description: MA period (200)
+        entryOffset:
+          type: number
+          description: Entry offset from MA in points (10)
+        stopLoss:
+          type: number
+          description: Stop loss in points (20)
+        partial1Percent:
+          type: number
+          description: First partial close percent (60)
+        partial1Points:
+          type: number
+          description: First partial target in points (20)
+        partial2Percent:
+          type: number
+          description: Second partial close percent (20)
+        partial2Points:
+          type: number
+          description: Second partial target in points (50)
+        partial3Points:
+          type: number
+          description: Third (final) partial target in points (100)
+        maxOpenTrades:
+          type: integer
+          description: Maximum simultaneous open trades (3)
+        maxDailyStops:
+          type: integer
+          description: Max daily stops before blocking new trades (2)
+        timeframeMinutes:
+          type: integer
+          description: Timeframe in minutes (5)
+        tradingStartTime:
+          type: string
+          nullable: true
+          description: "Earliest time to open new positions, format HH:MM"
+        tradingEndTime:
+          type: string
+          nullable: true
+          description: "Latest time to open new positions, format HH:MM"
+        forceCloseTime:
+          type: string
+          nullable: true
+          description: "Time to force-close all open positions, format HH:MM"
+        maxDailyLossPts:
+          type: number
+          nullable: true
+          description: Stop opening new positions after accumulating this loss in the day
+        maxDailyProfitPts:
+          type: number
+          nullable: true
+          description: Stop opening new positions after reaching this profit target for the day
+        breakEvenPts:
+          type: number
+          nullable: true
+          description: Move stop loss to entry price when position profit reaches this value
+        cancelPendingAfterBars:
+          type: integer
+          nullable: true
+          description: Cancel pending orders after this many bars without being filled
+        updatedAt:
+          type: string
+          format: date-time
+          description: Last updated timestamp
+      required:
+        - symbol
+        - strategyName
+        - strategyParams
+        - lotSize
+        - ma200Period
+        - entryOffset
+        - stopLoss
+        - partial1Percent
+        - partial1Points
+        - partial2Percent
+        - partial2Points
+        - partial3Points
+        - maxOpenTrades
+        - maxDailyStops
+        - timeframeMinutes
+
+    BotConfigInput:
+      type: object
+      description: Input schema for creating or updating a symbol configuration (no id or updatedAt)
+      properties:
+        symbol:
+          type: string
+          description: Trading symbol (e.g. WINM25)
+        strategyName:
+          type: string
+          description: Strategy identifier (e.g. ma200_rejection)
+          default: ma200_rejection
+        strategyParams:
+          type: object
+          description: Strategy-specific parameters as free-form JSON
+        lotSize:
+          type: number
+          description: Position size in lots
+        ma200Period:
+          type: integer
+          description: MA period (200)
+        entryOffset:
+          type: number
+          description: Entry offset from MA in points (10)
+        stopLoss:
+          type: number
+          description: Stop loss in points (20)
+        partial1Percent:
+          type: number
+          description: First partial close percent (60)
+        partial1Points:
+          type: number
+          description: First partial target in points (20)
+        partial2Percent:
+          type: number
+          description: Second partial close percent (20)
+        partial2Points:
+          type: number
+          description: Second partial target in points (50)
+        partial3Points:
+          type: number
+          description: Third (final) partial target in points (100)
+        maxOpenTrades:
+          type: integer
+          description: Maximum simultaneous open trades (3)
+        maxDailyStops:
+          type: integer
+          description: Max daily stops before blocking new trades (2)
+        timeframeMinutes:
+          type: integer
+          description: Timeframe in minutes (5)
+        tradingStartTime:
+          type: string
+          nullable: true
+          description: "Earliest time to open new positions, format HH:MM"
+        tradingEndTime:
+          type: string
+          nullable: true
+          description: "Latest time to open new positions, format HH:MM"
+        forceCloseTime:
+          type: string
+          nullable: true
+          description: "Time to force-close all open positions, format HH:MM"
+        maxDailyLossPts:
+          type: number
+          nullable: true
+          description: Stop opening new positions after accumulating this loss in the day
+        maxDailyProfitPts:
+          type: number
+          nullable: true
+          description: Stop opening new positions after reaching this profit target for the day
+        breakEvenPts:
+          type: number
+          nullable: true
+          description: Move stop loss to entry price when position profit reaches this value
+        cancelPendingAfterBars:
+          type: integer
+          nullable: true
+          description: Cancel pending orders after this many bars without being filled
+      required:
+        - symbol
+        - lotSize
+        - ma200Period
+        - entryOffset
+        - stopLoss
+        - partial1Percent
+        - partial1Points
+        - partial2Percent
+        - partial2Points
+        - partial3Points
+        - maxOpenTrades
+        - maxDailyStops
+        - timeframeMinutes
+
+    BotStatus:
+      type: object
+      properties:
+        isRunning:
+          type: boolean
+        openTrades:
+          type: integer
+        dailyStops:
+          type: integer
+        isBlocked:
+          type: boolean
+        blockReason:
+          type: string
+          nullable: true
+        lastSignalAt:
+          type: string
+          format: date-time
+          nullable: true
+        currentMa200:
+          type: number
+          nullable: true
+        currentPrice:
+          type: number
+          nullable: true
+      required:
+        - isRunning
+        - openTrades
+        - dailyStops
+        - isBlocked
+
+    Trade:
+      type: object
+      properties:
+        id:
+          type: integer
+        symbol:
+          type: string
+        direction:
+          type: string
+          enum: [BUY, SELL]
+        entryPrice:
+          type: number
+          nullable: true
+        orderPrice:
+          type: number
+        stopLoss:
+          type: number
+        ma200AtEntry:
+          type: number
+        lotSize:
+          type: number
+        status:
+          type: string
+          enum: [pending, open, closed, cancelled]
+        partial1Closed:
+          type: boolean
+        partial2Closed:
+          type: boolean
+        closedAt:
+          type: string
+          format: date-time
+          nullable: true
+        openedAt:
+          type: string
+          format: date-time
+          nullable: true
+        createdAt:
+          type: string
+          format: date-time
+        profitLoss:
+          type: number
+          nullable: true
+        closeReason:
+          type: string
+          nullable: true
+      required:
+        - id
+        - symbol
+        - direction
+        - orderPrice
+        - stopLoss
+        - ma200AtEntry
+        - lotSize
+        - status
+        - partial1Closed
+        - partial2Closed
+        - createdAt
+
+    BotSummary:
+      type: object
+      properties:
+        totalTrades:
+          type: integer
+        openTrades:
+          type: integer
+        closedTrades:
+          type: integer
+        cancelledTrades:
+          type: integer
+        totalWins:
+          type: integer
+        totalLosses:
+          type: integer
+        winRate:
+          type: number
+        totalPnl:
+          type: number
+        todayPnl:
+          type: number
+        todayTrades:
+          type: integer
+        dailyStops:
+          type: integer
+      required:
+        - totalTrades
+        - openTrades
+        - closedTrades
+        - cancelledTrades
+        - totalWins
+        - totalLosses
+        - winRate
+        - totalPnl
+        - todayPnl
+        - todayTrades
+        - dailyStops
